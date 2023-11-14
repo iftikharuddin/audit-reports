@@ -31,7 +31,7 @@ This repository contains all the audit reports and their outcomes.
 | L-02. use ERC721A instead of ERC721        | Consider using the ERC721A standard for gas efficiency and security optimization.                                            | High gas costs, security vulnerabilities with ERC721.                                                                         | Use ERC721A for better gas efficiency and security.                                                                        |
 
 
-### First Flight #3: Thunder Loan [ in Judging phase ] [Link](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-#3_-Thunder-Loan.md)
+### First Flight #3: Thunder Loan [ in Judging phase ] [Link](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%233_-Thunder-Loan.md)
 
 | **Finding**  | **Summary**  | **Impact**  | **Recommendations**  | **Relevant Links**  |
 |--------------|--------------|-------------|-----------------------|----------------------|
