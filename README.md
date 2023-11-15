@@ -42,9 +42,9 @@ This repository contains all the audit reports and their outcomes.
 | **H-05**     | `updateExchangeRate` function can be exploited/manipulated by attackers | The use of local functions `ThunderLoan::deposit->updateExchangeRate` & `ThunderLoan::flashloan->updateExchangeRate` may allow attackers to manipulate exchange rates, recommending reliance on decentralized price feeds, such as Chainlink, for enhanced security. | Utilize decentralized price feeds, such as Chainlink, for more reliable and secure price information. | [Link 1](https://github.com/Cyfrin/2023-11-Thunder-Loan/blob/8539c83865eb0d6149e4d70f37a35d9e72ac7404/src/protocol/ThunderLoan.sol#L154), [Link 2](https://github.com/Cyfrin/2023-11-Thunder-Loan/blob/8539c83865eb0d6149e4d70f37a35d9e72ac7404/src/protocol/ThunderLoan.sol#L194) |
 
 
-### First Flight #4: Boss Bridge [ In Judging ]
+### First Flight #4: Boss Bridge [ Done ] [LINK](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%234_-Boss-Bridge.md)
 
-First Flight #4 has you delving into Boss Bridge, a simple protocol allowing users to move tokens from Layer 1 to Layer 2. [Link](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%233_-Thunder-Loan.md)
+First Flight #4 has you delving into Boss Bridge, a simple protocol allowing users to move tokens from Layer 1 to Layer 2. 
 
 | Finding | Summary | Impact | Recommendations |
 | --- | --- | --- | --- |
