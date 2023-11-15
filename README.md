@@ -44,5 +44,17 @@ This repository contains all the audit reports and their outcomes.
 
 ### First Flight #4: Boss Bridge [ In Judging ]
 
-First Flight #4 has you delving into Boss Bridge, a simple protocol allowing users to move tokens from Layer 1 to Layer 2.
+First Flight #4 has you delving into Boss Bridge, a simple protocol allowing users to move tokens from Layer 1 to Layer 2. [Link](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%233_-Thunder-Loan.md)
+
+| Finding | Summary | Impact | Recommendations |
+| --- | --- | --- | --- |
+| **H-01** | Signer can withdraw multiple times, potentially emptying the vault. | A signed user can repeatedly execute the withdrawal function, risking vault depletion. | Implement a mechanism to track the amount withdrawn by a signed user and limit subsequent withdrawals. Example: `mapping(address => uint256) public withdrawnBalances;` |
+| **H-02** | Potential Front-Running attack, Attacker could withdraw tokens from L2 before the user. | Signed transactions can be exploited for front-running, allowing attackers to gain control of tokens before the intended recipient. | Mitigate replay attacks by introducing a nonce and using EIP-712 for signing messages. See code examples above. |
+| **H-03** | Fixed Initial Supply Vulnerability, potentially affecting token functionality and intended use cases. | Fixed initial supply vulnerability in L1Token.sol deploys tokens with a constant INITIAL_SUPPLY, potentially deviating from specified values. | Add dynamic configuration for `INITIAL_SUPPLY` in the L1Token contract. Example provided above. |
+| **H-04** | Lack of Compiler Awareness for 'contractBytecode', Potential for Incorrect Contract Deployment and Address Calculation in zkSync. | Lack of compiler awareness in zkSync regarding `contractBytecode` may lead to incorrect deployments and address calculation. | Ensure compiler awareness and validate bytecode to prevent incorrect deployments in zkSync. Example code provided above. |
+| **H-05** | Signature Replay Attack in Withdrawal, Leads to Unauthorized Spending or Unintended Consequences. | Vulnerability in `withdrawTokensToL1` allows signature replay attacks on withdrawals. | Introduce a nonce and use EIP-712 for signing messages to prevent replay attacks. Example code provided above. |
+| **H-06** | Arbitrary 'from' in 'transferFrom' – Unauthorized Access. | The use of arbitrary 'from' in `transferFrom` during token deposit allows unauthorized access. | Use `msg.sender` as 'from' in `transferFrom` to ensure proper authorization. Example code provided above. |
+| **M-01** | Signature Replay Across Chains, Possible Unauthorized Execution on Different Chains. | Potential unauthorized transactions across different chains due to signature replay. | Ensure the signed data includes the chain ID to prevent signature reuse on different chains. |
+| **M-02** | No validation of contractBytecode, Wasted Gas and Resources. | Lack of bytecode validation in `deployToken` can lead to failed deployments and wasted resources. | Add bytecode validation in `deployToken` to ensure secure contract deployments. Example code provided above. |
+
 
