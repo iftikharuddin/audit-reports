@@ -31,7 +31,7 @@ This repository contains all the audit reports and their outcomes.
 | L-02. use ERC721A instead of ERC721        | Consider using the ERC721A standard for gas efficiency and security optimization.                                            | High gas costs, security vulnerabilities with ERC721.                                                                         | Use ERC721A for better gas efficiency and security.                                                                        |
 
 
-### First Flight #3: Thunder Loan [ in Judging phase ] [Link](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%233_-Thunder-Loan.md)
+### First Flight #3: Thunder Loan [ in Appeal ] [Link](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%233_-Thunder-Loan.md)
 
 | **Finding**  | **Summary**  | **Impact**  | **Recommendations**  | **Relevant Links**  |
 |--------------|--------------|-------------|-----------------------|----------------------|
@@ -42,4 +42,4 @@ This repository contains all the audit reports and their outcomes.
 | **H-05**     | `updateExchangeRate` function can be exploited/manipulated by attackers | The use of local functions `ThunderLoan::deposit->updateExchangeRate` & `ThunderLoan::flashloan->updateExchangeRate` may allow attackers to manipulate exchange rates, recommending reliance on decentralized price feeds, such as Chainlink, for enhanced security. | Utilize decentralized price feeds, such as Chainlink, for more reliable and secure price information. | [Link 1](https://github.com/Cyfrin/2023-11-Thunder-Loan/blob/8539c83865eb0d6149e4d70f37a35d9e72ac7404/src/protocol/ThunderLoan.sol#L154), [Link 2](https://github.com/Cyfrin/2023-11-Thunder-Loan/blob/8539c83865eb0d6149e4d70f37a35d9e72ac7404/src/protocol/ThunderLoan.sol#L194) |
 
 
-### First Flight #4: Boss Bridge [ In Progress ]
+### First Flight #4: Boss Bridge [ In Judging ]
