@@ -26,3 +26,8 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 ## Oracles
 
 - [M-01] The Chainlink price feed's input is not properly validated ( check for stale and negative returns )
+
+### Chainlink Oracle Security Considerations
+
+- Not Checking For Stale Prices
+- Not Checking For Down L2 Sequencer e.g [Issue](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/1046)
