@@ -22,3 +22,7 @@ Lending & Borrowing DeFi platforms display common sets of vulnerabilities
 Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols)
 
 ## Bridges DeFi Attacks
+
+## Oracles
+
+- [M-01] The Chainlink price feed's input is not properly validated ( check for stale and negative returns )
