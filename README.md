@@ -57,4 +57,9 @@ First Flight #4 has you delving into Boss Bridge, a simple protocol allowing use
 | **M-01** | Signature Replay Across Chains, Possible Unauthorized Execution on Different Chains. | Potential unauthorized transactions across different chains due to signature replay. | Ensure the signed data includes the chain ID to prevent signature reuse on different chains. |
 | **M-02** | No validation of contractBytecode, Wasted Gas and Resources. | Lack of bytecode validation in `deployToken` can lead to failed deployments and wasted resources. | Add bytecode validation in `deployToken` to ensure secure contract deployments. Example code provided above. |
 
+### First Flight #5: Santa's List
+
+He's making a smart contract and checking it twice ... Let's find out if this protocol has been naughty or nice!
+
+
 
