@@ -34,3 +34,34 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 - Not Checking For Stale Prices
 - Not Checking For Down L2 Sequencer e.g [Issue](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/1046)
 - Unhandled Oracle Revert Denial Of Service
+
+### [](https://www.beirao.xyz/blog/Security-checklist#vault)Vault
+
+[V-01] - Can transferring ERC20 or ETH directly break something ?
+
+[V-02] - Is the vault balance tracked internally ?
+
+[V-03] - Can the 1st deposit raise a problem ?
+
+[V-04] - Is this vault taking into consideration that some ERC20 token are not 18 decimals ?
+
+[V-05] - Is the fee calculation correct ?
+
+[V-06] - What if only 1 wei remain in the pool ?
+
+[V-07] - On vault with strategies implemented :
+
+-   flash deposit-harvest-withdraw attacks are possible?
+-   How the vault behave when locked fund are put in a strategy?
+-   Are losses handled ? (always should)
+-   What happen in case of a black swan event ? (protocol implemented in the strategy get hacked)
+-   Look at token-specific/protocol risks implemented in strategies :
+    -   For protocol
+        -   Pause ?
+        -   Emergency withdrawal ?
+        -   Depreciation ?
+    -   For tokens
+        -   All weird implementations
+
+[V-08] - Can we manipulate the conversion rate between shares and underlying ? ([here](https://mixbytes.io/blog/yield-aggregators-common-pitfalls#rec515086866))
+
