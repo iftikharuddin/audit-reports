@@ -25,9 +25,12 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 
 ## Oracles
 
+- Assuming Oracle Price Precision [Stackoverflow](https://ethereum.stackexchange.com/questions/92508/do-all-chainlink-feeds-return-prices-with-8-decimals-of-precision)
+
 - [M-01] The Chainlink price feed's input is not properly validated ( check for stale and negative returns )
 
 ### Chainlink Oracle Security Considerations
 
 - Not Checking For Stale Prices
 - Not Checking For Down L2 Sequencer e.g [Issue](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin/issues/1046)
+- Unhandled Oracle Revert Denial Of Service
