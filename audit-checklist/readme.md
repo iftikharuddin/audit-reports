@@ -21,8 +21,6 @@ Lending & Borrowing DeFi platforms display common sets of vulnerabilities
 
 Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols)
 
-## Bridges DeFi Attacks
-
 ## Oracles
 
 - Assuming Oracle Price Precision [Stackoverflow](https://ethereum.stackexchange.com/questions/92508/do-all-chainlink-feeds-return-prices-with-8-decimals-of-precision)
@@ -64,4 +62,6 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
         -   All weird implementations
 
 [V-08] - Can we manipulate the conversion rate between shares and underlying ? ([here](https://mixbytes.io/blog/yield-aggregators-common-pitfalls#rec515086866))
+
+## Bridges DeFi Attacks
 
