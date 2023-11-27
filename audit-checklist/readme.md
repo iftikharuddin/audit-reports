@@ -39,7 +39,7 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 
 [V-02] - Is the vault balance tracked internally ?
 
-[V-03] - Can the 1st deposit raise a problem ?
+[V-03] - Can the 1st deposit raise a problem ? [here](https://mixbytes.io/blog/overview-of-the-inflation-attack#rec558234839)
 
 [V-04] - Is this vault taking into consideration that some ERC20 token are not 18 decimals ?
 
@@ -49,7 +49,7 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 
 [V-07] - On vault with strategies implemented :
 
--   flash deposit-harvest-withdraw attacks are possible?
+-   flash deposit-harvest-withdraw attacks are possible? First depositor can steal funds of others [here](https://mixbytes.io/blog/overview-of-the-inflation-attack#rec558234839)
 -   How the vault behave when locked fund are put in a strategy?
 -   Are losses handled ? (always should)
 -   What happen in case of a black swan event ? (protocol implemented in the strategy get hacked)
@@ -64,4 +64,13 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 [V-08] - Can we manipulate the conversion rate between shares and underlying ? ([here](https://mixbytes.io/blog/yield-aggregators-common-pitfalls#rec515086866))
 
 ## Bridges DeFi Attacks
+
+## Extra known issues
+
+- [L-02] It's possible to use a flawed compiler version
+Solidity version 0.8.13 & 0.8.14 have a security vulnerability related to assembly blocks that write to memory.
+The issue is fixed in version 0.8.15 and is explained [here](https://soliditylang.org/blog/2022/06/15/solidity-0.8.15-release-announcement/).
+While the problem is with the legacy optimizer, it is still correct to enforce latest Solidity version (0.8.21) or at least the one enforced in other popular library code as OpenZeppelin (0.8.19).
+
+
 
