@@ -17,10 +17,10 @@ This repository contains all the audit reports and their outcomes.
 ### First Flight #2 - First Flight #2: Puppy Raffle
 - [First Flight #2 details](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%232_-Puppy-Raffle.md)
 
-### First Flight #3: Thunder Loan [ in Appeal ]
+### First Flight #3: Thunder Loan 
 - [First Flight #3 details](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%233_-Thunder-Loan.md)
 
-### First Flight #4: Boss Bridge [ Done ]
+### First Flight #4: Boss Bridge 
 - [First Flight #4 details](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%234_-Boss-Bridge.md)
 
 ### First Flight #5: Santa's List
