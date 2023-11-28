@@ -74,3 +74,7 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 
 
 
+## IERC20 Issues
+
+- Medium - Unsafe use of transfer() with IERC20
+    - Recommendation: Use OpenZeppelin's SafeERC20 library instead of transfer.
