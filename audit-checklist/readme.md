@@ -78,3 +78,10 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 
 - Medium - Unsafe use of transfer() with IERC20
     - Recommendation: Use OpenZeppelin's SafeERC20 library instead of transfer.
+    
+## Informational issues    
+
+- #I-1 : internal function name doesn't start with an '_'. They should start with _ ( best case )
+    - Note: internal library function don't start with an `_`
+    
+    
