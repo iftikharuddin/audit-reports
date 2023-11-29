@@ -3,7 +3,7 @@
 This repository contains all the audit reports and their outcomes.
 
 ### Convergence 
-- [Convergence](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%231_-PasswordStore.md) 
+- [Convergence](https://github.com/iftikharuddin/audit-reports/tree/master/sherlock-audits/convergence) 
 
 ### Superform 
 - details coming soon
