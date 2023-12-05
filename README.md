@@ -28,7 +28,6 @@ This repository contains all the audit reports and their outcomes.
 
 ### First Flight #5: Santa's List
 
-He's making a smart contract and checking it twice ... Let's find out if this protocol has been naughty or nice!
-
+- will be updated soon
 
 
