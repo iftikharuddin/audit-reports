@@ -11,6 +11,9 @@ This repository contains all the audit reports and their outcomes.
 ### Morpho Blue 
 - details coming soon
 
+### Olympus 
+- details coming soon
+
 ### First Flight #1 - First Flight #1: PasswordStore
 - [First Flight #1 details](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%231_-PasswordStore.md) 
 
