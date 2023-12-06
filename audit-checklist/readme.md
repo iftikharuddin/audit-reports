@@ -1,5 +1,7 @@
 # Checklist before auditing protocols
 
+Did you ran slither? Aderyn? or any other static analysis tool? They can help a lot believe me!!
+
 ## Lending/Borrowing DeFi Attacks
  
 Lending & Borrowing DeFi platforms display common sets of vulnerabilities
