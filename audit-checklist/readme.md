@@ -67,14 +67,22 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 
 ## Bridges DeFi Attacks
 
+- 
+
+ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x200-Components/0x205-C5-Bridge.md 
+
+## Cross Chain Attacks
+
+- Verify that the protocol uses solidity-examples package to import LayerZero contracts and does not copy-paste them directly from the repository.
+
+ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x300-Integrations/0x304-I4-Cross-Chain.md 
+
 ## Extra known issues
 
 - [L-02] It's possible to use a flawed compiler version
 Solidity version 0.8.13 & 0.8.14 have a security vulnerability related to assembly blocks that write to memory.
 The issue is fixed in version 0.8.15 and is explained [here](https://soliditylang.org/blog/2022/06/15/solidity-0.8.15-release-announcement/).
 While the problem is with the legacy optimizer, it is still correct to enforce latest Solidity version (0.8.21) or at least the one enforced in other popular library code as OpenZeppelin (0.8.19).
-
-
 
 ## IERC20 Issues
 
@@ -86,4 +94,9 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 - #I-1 : internal function name doesn't start with an '_'. They should start with _ ( best case )
     - Note: internal library function don't start with an `_`
     
+- #-2: Hash Collision Vulnerability   
+    - replace the usage of abi.encodePacked() with abi.encode()
     
+- #-3: Events missing `indexed` fields for 
+    - Index event fields make the field more quickly accessible to off-chain tools that parse events   
+     
