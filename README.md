@@ -28,6 +28,6 @@ This repository contains all the audit reports and their outcomes.
 
 ### First Flight #5: Santa's List
 
-- will be updated soon
+- [First Flight #5 details](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%234_-Boss-Bridge.md)
 
 
