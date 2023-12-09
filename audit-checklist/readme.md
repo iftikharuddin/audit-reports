@@ -84,6 +84,8 @@ Solidity version 0.8.13 & 0.8.14 have a security vulnerability related to assemb
 The issue is fixed in version 0.8.15 and is explained [here](https://soliditylang.org/blog/2022/06/15/solidity-0.8.15-release-announcement/).
 While the problem is with the legacy optimizer, it is still correct to enforce latest Solidity version (0.8.21) or at least the one enforced in other popular library code as OpenZeppelin (0.8.19).
 
+- Reports: https://ottersec.notion.site/Sampled-Public-Audit-Reports-a296e98838aa4fdb8f3b192663400772
+
 ## IERC20 Issues
 
 - Medium - Unsafe use of transfer() with IERC20
