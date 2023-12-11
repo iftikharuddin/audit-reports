@@ -14,6 +14,9 @@ This repository contains all the audit reports and their outcomes.
 ### Olympus 
 - details coming soon
 
+### Ethereum Credit Guild
+- details coming soon
+
 ### First Flight #1 - First Flight #1: PasswordStore
 - [First Flight #1 details](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%231_-PasswordStore.md) 
 
