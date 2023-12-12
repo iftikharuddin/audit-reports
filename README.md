@@ -14,6 +14,9 @@ This repository contains all the audit reports and their outcomes.
 ### Olympus 
 - details coming soon
 
+### Tswap
+- [Tswap report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/security-course/5-t-swap-audit.md) 
+
 ### Ethereum Credit Guild
 - details coming soon
 
