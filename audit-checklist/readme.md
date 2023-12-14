@@ -86,6 +86,13 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 
 - Reports: https://ottersec.notion.site/Sampled-Public-Audit-Reports-a296e98838aa4fdb8f3b192663400772
 
+- Use abi.encodeCall() instead of abi.encodeWithSignature()/abi.encodeWithSelector()	
+
+- [G-12] Use of emit inside a loop
+    - Emitting an event inside a loop performs a LOG op N times, where N is the loop length. Consider refactoring the code to emit the event only once at the end of loop. Gas savings should be multiplied by the average loop length.
+    
+- [L] `PUSH0` might not be supported on all chains, leading to potential incompatibility issues.
+
 ## IERC20 Issues
 
 - Medium - Unsafe use of transfer() with IERC20
