@@ -36,4 +36,6 @@ This repository contains all the audit reports and their outcomes.
 
 - [First Flight #5 details](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%235_-Santa's-List.md)
 
+### First Flight #6: Voting Booth
 
+- [First Flight #6 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%235_-Santa's-List.md)
