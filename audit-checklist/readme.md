@@ -99,6 +99,10 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 - Medium - Unsafe use of transfer() with IERC20
     - Recommendation: Use OpenZeppelin's SafeERC20 library instead of transfer.
     
+- Is there a direct approval to a non-zero value?
+    - Description: Some ERC20 tokens do not work when changing the allowance from an existing non-zero allowance value. For example Tether (USDT)'s approve() function will revert if the current approval is not zero, to protect against front-running changes of approvals.	    
+    - Solution: Set the allowance to zero before increasing the allowance and use safeApprove/safeIncreaseAllowance.
+
 ## Informational issues    
 
 - #I-1 : internal function name doesn't start with an '_'. They should start with _ ( best case )
