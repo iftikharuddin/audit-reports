@@ -8,6 +8,9 @@ This repository contains all the audit reports and their outcomes.
 ### Superform 
 - details coming soon
 
+### Stake.link
+- details coming soon
+
 ### Morpho Blue 
 - details coming soon
 
