@@ -28,7 +28,7 @@
 
 # High Risk Findings
 
-## <a id='H-01'></a>H-01. Critical Bug: Incorrect Rewards Distribution Logic            
+## <a id='H-01'></a>H-01. Critical Bug: Incorrect Rewards Distribution Logic [VALIDATED]            
 
 ### Relevant GitHub Links
 	
@@ -144,7 +144,7 @@ Also remove the round up check, if this is NOT removed the last voter might rece
 		
 # Medium Risk Findings
 
-## <a id='M-01'></a>M-01. Compiler Version Incompatibility with Layer 2 Networks: Deployment Issues on Arbitrum            
+## <a id='M-01'></a>M-01. Compiler Version Incompatibility with Layer 2 Networks: Deployment Issues on Arbitrum [VALIDATED]             
 
 ### Relevant GitHub Links
 	
