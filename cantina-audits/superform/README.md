@@ -2,7 +2,7 @@
 
 Selected findings from Superform audit.
 
-### [H-1] **Potential loss of ether in `registerAERC20`**
+## [H-1] **Potential loss of ether in `registerAERC20`**
 
 **Severity:** High
 
@@ -155,7 +155,7 @@ Update the comment in the `decodeAmountIn` function to mention "amount_" instead
 This change will enhance code clarity and make it more understandable for anyone reviewing or maintaining the code.
 
 
-### [I-4] **Enhancement for Code Readability in DstSwapper Contract**
+## [I-4] **Enhancement for Code Readability in DstSwapper Contract**
 
 **Severity:** Informational
 
@@ -197,7 +197,7 @@ This modification enhances code readability, making it easier for developers to 
 
 Certainly, here is the information formatted for your GitHub portfolio:
 
-### [I-5] **Documentation Enhancement in SocketValidator Contract**
+## [I-5] **Documentation Enhancement in SocketValidator Contract**
 
 **Severity:** Informational
 
@@ -228,8 +228,7 @@ function decodeSwapOutputToken(bytes calldata /*txData_*/) external pure returns
 
 This modification improves the documentation, providing clear guidance for developers implementing the interface.
 
-
-### [I-6] **Code Organization Enhancement in CoreStateRegistry Contract**
+## [I-6] **Code Organization Enhancement in CoreStateRegistry Contract**
 
 **Severity:** Informational
 
