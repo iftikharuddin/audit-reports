@@ -2,15 +2,14 @@
 
 This repository contains all the audit reports and their outcomes.
 
-
 ### Morpho Blue 
-- [Convergence](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue) 
+- [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue) 
 
 ### Convergence 
-- [Convergence](https://github.com/iftikharuddin/audit-reports/tree/master/sherlock-audits/convergence) 
+- [Convergence Report](https://github.com/iftikharuddin/audit-reports/tree/master/sherlock-audits/convergence) 
 
 ### Superform 
-- 7 low confirmed, waiting for results
+- [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform) 
 
 ### Stake.link
 - details coming soon
