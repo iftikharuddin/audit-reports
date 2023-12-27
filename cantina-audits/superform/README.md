@@ -1,8 +1,6 @@
-# Audting Superform Protocol
+# Superform Protocol Report
 
 Selected findings from Superform audit.
-
-Certainly, here is the information formatted for your GitHub portfolio:
 
 ### [H-1] **Potential loss of ether in `registerAERC20`**
 

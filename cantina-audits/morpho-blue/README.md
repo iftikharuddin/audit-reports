@@ -1,4 +1,4 @@
-# Audting Morpho Blue Protocol
+# Morpho Blue Protocol Report
 
 Confirmed findings, more details and POC will be shared after results finality:
 ## [H-1] **First Depositor Can Steal Funds of Others** 
