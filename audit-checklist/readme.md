@@ -23,6 +23,12 @@ Lending & Borrowing DeFi platforms display common sets of vulnerabilities
 
 Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols)
 
+## Chainlink CCIP
+
+- coming soon
+
+ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1-tiny-token-transferor
+
 ## Oracles
 
 - Assuming Oracle Price Precision [Stackoverflow](https://ethereum.stackexchange.com/questions/92508/do-all-chainlink-feeds-return-prices-with-8-decimals-of-precision)
