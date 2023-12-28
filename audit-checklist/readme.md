@@ -25,7 +25,12 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 
 ## Chainlink CCIP
 
-- coming soon
+- Before calling the Router's `ccipSend` function, ensure that your code allows users to send CCIP messages to trusted destination chains.
+- When implementing the `ccipReceive` method in a contract residing on the destination chain, ensure to verify the source chain of the incoming CCIP message. This verification ensures that CCIP messages can only be received from trusted source chains.
+- When implementing the ccipReceive method in a contract residing on the destination chain, it's important to validate the sender of the incoming CCIP message. This check ensures that CCIP messages are received only from trusted sender addresses.
+- Setting `gasLimit`
+
+https://blog.chain.link/ccip-risk-management-network/
 
 ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1-tiny-token-transferor
 
