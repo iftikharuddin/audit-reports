@@ -56,6 +56,29 @@ By implementing these recommendations, the Superform project can enhance the sec
 
 Certainly, here is the information formatted for your GitHub portfolio:
 
+Certainly! Here's a formatted version for your GitHub:
+
+## [L-2] **Assuming Oracle Price Precision can lead to Inaccurate Gas Calculation Fees in `_convertToNativeFee`**
+
+**Severity:** Low
+
+**Relevant GitHub Links:** [PaymentHelper.sol - Lines 798-819](https://github.com/superform-xyz/superform-core/blob/29aa0519f4e65aa2f8477b76fc9cc924a6bdec8b/src/payments/PaymentHelper.sol#L798-L819)
+
+**Summary:**
+In the `PaymentHelper` contract, the function `_convertToNativeFee` is utilized for xChain gas estimation. However, it currently relies on non-ETH pairs, assuming a decimal precision of 8. Considering Superform's potential deployment on various EVM chains, issues may arise with compatibility if deployed on chains where price feeds have 18 decimals or if using ETH pairs requiring precision up to 18 decimals.
+
+**Vulnerability Details:**
+The issue stems from assuming a fixed decimal precision (8 decimals) for price feeds, which may not hold true for all chains and pairs. Different chains or specific pairs might have varying decimal precisions. For instance, non-ETH pairs typically use 8 decimals, while ETH pairs use 18 decimals.
+
+**Impact:**
+This issue could lead to inaccurate gas estimation if Superform is deployed on chains with different decimal precision for price feeds or if it utilizes ETH pairs that require 18 decimals.
+
+**Tools Used:**
+Manual review
+
+**Recommendations:**
+Smart contracts should dynamically determine the decimal precision for the relevant price feed by calling `AggregatorV3Interface.decimals()` to ensure compatibility with different chains and pairs. This approach will prevent assumptions about a fixed decimal precision and accommodate various scenarios, enhancing the robustness and flexibility of the system.
+
 ## [I-1] **Gas Efficiency Improvement in ERC1155A Contract**
 
 **Severity:** Informational
