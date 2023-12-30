@@ -37,7 +37,8 @@ ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1
 ## Oracles
 
 - Assuming Oracle Price Precision [Stackoverflow](https://ethereum.stackexchange.com/questions/92508/do-all-chainlink-feeds-return-prices-with-8-decimals-of-precision)
-
+    - assuming a fixed decimal precision (8 decimals) for price feeds, which may not hold true for all chains and pairs (reported in Superform)
+    
 - [M-01] The Chainlink price feed's input is not properly validated ( check for stale and negative returns )
 
 ### Chainlink Oracle Security Considerations
