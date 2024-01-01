@@ -29,6 +29,7 @@ Credits and thanks to: [Dacian](https://dacian.me/) & [mixbytes](https://mixbyte
 - When implementing the `ccipReceive` method in a contract residing on the destination chain, ensure to verify the source chain of the incoming CCIP message. This verification ensures that CCIP messages can only be received from trusted source chains.
 - When implementing the ccipReceive method in a contract residing on the destination chain, it's important to validate the sender of the incoming CCIP message. This check ensures that CCIP messages are received only from trusted sender addresses.
 - Setting `gasLimit`
+- Validate the sender, when data is encoded on Primary chain it must be decoded on secondary chains
 
 https://blog.chain.link/ccip-risk-management-network/
 
