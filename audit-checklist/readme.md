@@ -109,6 +109,7 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
     - When an assert statement fails, it consumes all remaining gas, and the state changes made up to that point in the transaction are rolled back. This behavior is different from require statements, which consume only the gas stipulated at the time of failure and allow for a more graceful handling of conditions.
 
 - Use of Solidity version 0.8.13 which has two known issues ( ABI Encoding )
+
 ## IERC20 Issues
 
 - Medium - Unsafe use of transfer() with IERC20
