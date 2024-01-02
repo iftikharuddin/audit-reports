@@ -131,3 +131,8 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 - #-3: Events missing `indexed` fields for 
     - Index event fields make the field more quickly accessible to off-chain tools that parse events   
      
+- #-4: Use of licensed code without credit
+    - The OZ code is BSD-licensed, therefore copying it without including the original license and crediting OZ is a breach of intellectual property law.
+
+- #-5: Waste of gas due to passing 0x00 as calldata
+    - the contract passes "0x00". In fact, this would correspond to 4 non-zero bytes which cost gas as they are part of the calldata. It is recommended to pass "" unless there is a specific reason to do so.
