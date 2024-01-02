@@ -109,6 +109,12 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 - [L] use of assert in production is NOT recommended
     - When an assert statement fails, it consumes all remaining gas, and the state changes made up to that point in the transaction are rolled back. This behavior is different from require statements, which consume only the gas stipulated at the time of failure and allow for a more graceful handling of conditions.
 
+- [L] Remove Token With Non-zero Balance
+    - The `removeToken()` function does not check if the token balance of the contract is zero or not. If the balance of a
+      token is not zero and this token is removed, the owner should add it again to the contract to withdraw the remaining
+      amount of tokens.
+    - Consider adding a require statement in removeToken() that checks for the token contract balance.
+    
 - Use of Solidity version 0.8.13 which has two known issues ( ABI Encoding )
 
 ## IERC20 Issues
