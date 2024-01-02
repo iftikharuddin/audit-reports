@@ -91,6 +91,9 @@ ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x200-Components
 ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x300-Integrations/0x304-I4-Cross-Chain.md 
 
 ## Extra known issues
+- [H-1]: Arbitrary from passed to transferFrom (or safeTransferFrom)
+    - Passing an arbitrary `from` address to `transferFrom` (or `safeTransferFrom`) can lead to loss of funds, because anyone can transfer tokens `from` the from address if an approval is made.
+    - use msg.sender instead of arbitrary from  
 
 - [L-02] It's possible to use a flawed compiler version
 Solidity version 0.8.13 & 0.8.14 have a security vulnerability related to assembly blocks that write to memory.
