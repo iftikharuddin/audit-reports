@@ -94,6 +94,10 @@ ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x300-Integratio
 - [H-1]: Arbitrary from passed to transferFrom (or safeTransferFrom)
     - Passing an arbitrary `from` address to `transferFrom` (or `safeTransferFrom`) can lead to loss of funds, because anyone can transfer tokens `from` the from address if an approval is made.
     - use msg.sender instead of arbitrary from  
+    
+- Whenever you see division (/) in code think of 2 bugs
+    - division by zero can occur?
+    - rounding errors can occur?    
 
 - [L-02] It's possible to use a flawed compiler version
 Solidity version 0.8.13 & 0.8.14 have a security vulnerability related to assembly blocks that write to memory.
@@ -119,6 +123,7 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
     - Consider adding a require statement in removeToken() that checks for the token contract balance.
     
 - Use of Solidity version 0.8.13 which has two known issues ( ABI Encoding )
+
 
 ## IERC20 Issues
 
