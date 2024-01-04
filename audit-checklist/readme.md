@@ -99,6 +99,10 @@ ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x300-Integratio
     - division by zero can occur?
     - rounding errors can occur?    
 
+- Array length mismatch check.
+
+- In rewards distribution or any funds handling check for dust.
+
 - [L-02] It's possible to use a flawed compiler version
 Solidity version 0.8.13 & 0.8.14 have a security vulnerability related to assembly blocks that write to memory.
 The issue is fixed in version 0.8.15 and is explained [here](https://soliditylang.org/blog/2022/06/15/solidity-0.8.15-release-announcement/).
