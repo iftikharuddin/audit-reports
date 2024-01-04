@@ -124,7 +124,16 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
     
 - Use of Solidity version 0.8.13 which has two known issues ( ABI Encoding )
 
+## Re-entrancy issues
 
+- Common reentrancy
+    - check if state is updating after external call?
+    - move the state update above external call
+    
+- Functions reentrancy
+- Contracts reentrancy
+- Read only reentrancy
+    
 ## IERC20 Issues
 
 - Medium - Unsafe use of transfer() with IERC20
