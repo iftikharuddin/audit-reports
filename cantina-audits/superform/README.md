@@ -1,6 +1,6 @@
 # Superform Protocol Report
 
-Selected findings from Superform audit.
+Selected findings from Superform audit. [16 selected/confirmed till now, waiting for final results]
 
 ## [H-1] **Potential loss of ether in `registerAERC20`**
 
