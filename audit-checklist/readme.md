@@ -138,6 +138,8 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 - Contracts reentrancy
 - Read only reentrancy
     
+- use of strict euality (!= , == ) should always be avoided in funds equations specially.
+    - use >= or <=    
 ## IERC20 Issues
 
 - Medium - Unsafe use of transfer() with IERC20
