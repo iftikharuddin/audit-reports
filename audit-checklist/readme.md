@@ -42,6 +42,14 @@ ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1
     
 - [M-01] The Chainlink price feed's input is not properly validated ( check for stale and negative returns )
 
+- [M-02] Deviation in oracle price could lead to arbitrage in high LLTV markets 
+    - all price oracles are susceptible to front-running as their prices tend to lag behind an asset's real-time price. More specifically:
+    - Chainlink oracles are updated after the change in price crosses a deviation threshold, (eg. 2.5% in ETH / USD), which means a price feed could return a value slightly smaller/larger than an asset's actual price under normal conditions.
+    - Uniwap V3 TWAP returns the average price over the past X number of blocks, which means it will always lag behind the real-time price.
+    - An attacker could exploit the difference between the price reported by an oracle and the asset's actual price to gain a profit by front-running the oracle's price update.
+    - Consider implementing a borrowing fee to mitigate against arbitrage opportunities. Ideally, this fee would be larger than the oracle's maximum price deviation so that it is not possible to profit from arbitrage.
+       
+
 ### Chainlink Oracle Security Considerations
 
 - Not Checking For Stale Prices
@@ -103,6 +111,10 @@ ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x300-Integratio
 
 - In rewards distribution or any funds handling check for dust.
 
+- Check if borrow allows to create small positions which leads to more bad debt
+    - set a minimum limit for how much someone can borrow in each situation
+    - This way, even if the borrowed amount is small, it won't be so small that it becomes unprofitable for others to step in and manage the situation
+
 - [L-02] It's possible to use a flawed compiler version
 Solidity version 0.8.13 & 0.8.14 have a security vulnerability related to assembly blocks that write to memory.
 The issue is fixed in version 0.8.15 and is explained [here](https://soliditylang.org/blog/2022/06/15/solidity-0.8.15-release-announcement/).
@@ -127,6 +139,10 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
     - Consider adding a require statement in removeToken() that checks for the token contract balance.
     
 - Use of Solidity version 0.8.13 which has two known issues ( ABI Encoding )
+
+- Missing contract-existence checks before low-level calls
+    - Low-level calls return success if there is no code present at the specified address, and this could lead to unexpected scenarios.
+    - Ensure that the code is initialized by checking <address>.code.length > 0.
 
 ## Re-entrancy issues
 
