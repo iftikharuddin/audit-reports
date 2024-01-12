@@ -2,6 +2,9 @@
 
 This repository contains all the audit reports and their outcomes.
 
+### Stake.link
+- [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)
+
 ### Superform 
 - [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform) 
 
@@ -11,11 +14,6 @@ This repository contains all the audit reports and their outcomes.
 ### Convergence 
 - [Convergence Report](https://github.com/iftikharuddin/audit-reports/tree/master/sherlock-audits/convergence) 
 
-### Stake.link
-- details coming soon
-
-### Olympus 
-- details coming soon
 
 ### Tswap
 - [Tswap report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/security-course/5-t-swap-audit.md) 
