@@ -86,6 +86,27 @@ ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1
 
 [V-08] - Can we manipulate the conversion rate between shares and underlying ? ([here](https://mixbytes.io/blog/yield-aggregators-common-pitfalls#rec515086866))
 
+## Do Not Miss These 5 Upgradeability Vulnerabilities
+
+- Storage Gaps
+    - Storage collisions
+    - Ownable Upgradable
+    - **Tip:** If protocol team created a contract and other contracts are inherited from it, make sure the higher in hierarchy (Primary)
+        - are using storage gaps between storage variables
+        - using namespace storage
+    - If not it can cause storage collisions during updradebility 
+    
+- UUPS
+    - Ownable
+    - **Tip:** If the UUPS is using OZ library make sure it uses the upgradeable version of it
+    - e.g If UUPS is using Ownable it will cause issues, it should use OwnableUpgradable
+
+- Init functions
+    - Initialize is missing initializer modifier
+    - 
+- _authorizeUpgrade must be access controlled once override 
+    
+    
 ## Bridges DeFi Attacks
 
 - 
@@ -115,6 +136,10 @@ ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x300-Integratio
     - set a minimum limit for how much someone can borrow in each situation
     - This way, even if the borrowed amount is small, it won't be so small that it becomes unprofitable for others to step in and manage the situation
 
+- An old version of the isContract function is used [ M ]
+    - The most recent version of this function in the OpenZeppelin contracts project uses `extcodehash` instead of `extcodesize` to give better guarantees and work with more cases.
+    - ref https://solodit.xyz/issues/m10-not-using-openzeppelin-contracts-openzeppelin-celo-contracts-audit-markdown
+    
 - [L-02] It's possible to use a flawed compiler version
 Solidity version 0.8.13 & 0.8.14 have a security vulnerability related to assembly blocks that write to memory.
 The issue is fixed in version 0.8.15 and is explained [here](https://soliditylang.org/blog/2022/06/15/solidity-0.8.15-release-announcement/).
