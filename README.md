@@ -41,6 +41,6 @@ This repository contains all the audit reports and their outcomes.
 
 - [First Flight #6 report](https://github.com/iftikharuddin/audit-reports/blob/8609c0d337bcb7ba9959533680d1b4937164248b/codehawk-first-flights/Iftikhar-First-Flight-%236_-Voting-Booth.md)
 
-### First Flight #7: Horse Store
+### First Flight #7: Horse Store (Submitted 11 findings)
 
 - [First Flight #7 report](https://github.com/iftikharuddin/audit-reports/blob/8609c0d337bcb7ba9959533680d1b4937164248b/codehawk-first-flights/Iftikhar-First-Flight-%236_-Voting-Booth.md)

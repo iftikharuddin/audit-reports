@@ -106,7 +106,10 @@ ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1
     - 
 - _authorizeUpgrade must be access controlled once override 
     
+- `pause/unpause` functionalities not implemented in many pausable contracts ( PausableUpgradeable )
+    - ref https://solodit.xyz/issues/m-02-pauseunpause-functionalities-not-implemented-in-many-pausable-contracts-code4rena-stader-labs-stader-labs-git 
     
+
 ## Bridges DeFi Attacks
 
 - 
