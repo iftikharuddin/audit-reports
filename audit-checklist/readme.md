@@ -86,6 +86,10 @@ ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1
 
 [V-08] - Can we manipulate the conversion rate between shares and underlying ? ([here](https://mixbytes.io/blog/yield-aggregators-common-pitfalls#rec515086866))
 
+- Is it possible to withdraw in the same transaction of deposit?
+    - Protocols often provide various benefits to the depositors based on the deposit amount. This can lead to flashloan-deposit-harvest-withdraw attack cycle.	
+    - Ensure the withdrawal is protected for some blocks after deposit.
+
 ## Do Not Miss These 5 Upgradeability Vulnerabilities
 
 - Storage Gaps
