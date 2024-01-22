@@ -46,3 +46,7 @@ This repository contains all the audit reports and their outcomes.
 ### First Flight #7: Horse Store 
 
 - [First Flight #7 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%237_-Horse-Store.md)
+
+### First Flight #8: Math Master
+
+- [First Flight #8 report](#link)

@@ -44,6 +44,15 @@ Did you ran slither? Aderyn? or any other static analysis tool? They can help a 
     - ????
     
 11 - Reentrancy 
+
+12 - Sybil attacks on incentives
+    - Step wise jumps ( https://youtu.be/-9VmITcdm3c )
+    - Reward Compounds (donations)
+    - Interest rate updates
+    - Always check setters of rewards
+    - Inflation attack ( relaying on balanceOf )
+    
+13 - Flash loans
     
     
 ## Lending/Borrowing DeFi Attacks
