@@ -2,6 +2,10 @@
 
 Did you ran slither? Aderyn? or any other static analysis tool? They can help a lot believe me!!
 
+## 22 Vulnerabilities I Use To Find Criticals FAST!
+
+1 - Frontrunning & Backrunning 
+    - Time dependent
 ## Lending/Borrowing DeFi Attacks
  
 Lending & Borrowing DeFi platforms display common sets of vulnerabilities
