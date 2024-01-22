@@ -6,6 +6,46 @@ Did you ran slither? Aderyn? or any other static analysis tool? They can help a 
 
 1 - Frontrunning & Backrunning 
     - Time dependent
+    - Get-or-create pattern functionality is prone to frontrunning attacks.	
+    - Ensure the frontrunning does not cause user loss or unexpected problems.
+    - Actions that require two separate transactions may be at risk of frontrunning, where an attacker can intervene between the two calls.	
+    - Attackers may cause legitimate transactions to fail by front-running with transactions of negligible amounts.	
+    
+2 - Using very small amounts
+    -  rounding and precision issues
+    - can be covered by fuzzing/invariant
+
+3 - Passing zero as input
+    - it can be zero address, zero uint value, empty lists, lists of zero values
+
+4 - Using contracts that can't accept ETH
+    - let say a 2 way trx, one send a trx and keeper runs it and then send it back to the contract. How about inserting a contract in between which don't accept ETH? DOS!!!
+  
+5 - Gas Griefing with External Calls
+    - any aritrary call to an untrusted contract/address that is NOT controlled by the caller (the person who is paying for gas)
+        - this address (untrusted) can spend a huge gas from the caller
+        - always set gas limit when calling to untrusted address
+       
+6 - WEIRD ERC20 Tokens
+    - ERC777 tokens (reentrancy)
+    - Fee on transfer tokens
+    - Blacklisted tokens
+   
+7 - Price Manipulation
+    - 
+
+8 - Blacklisted ERC20 Addresses
+    - USDC/USDT has blacklist mappings
+    
+9 - Underflow/Overflow
+    - casting can have issues
+    
+10 - Block re-orgs
+    - ????
+    
+11 - Reentrancy 
+    
+    
 ## Lending/Borrowing DeFi Attacks
  
 Lending & Borrowing DeFi platforms display common sets of vulnerabilities
