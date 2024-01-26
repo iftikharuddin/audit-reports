@@ -88,6 +88,8 @@ https://blog.chain.link/ccip-risk-management-network/
 
 ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1-tiny-token-transferor
 
+- CCIP router address cannot be updated
+    - ref https://www.codehawks.com/finding/clrunirpg00o4dc6tusyc0jt1 
 ## Oracles
 
 - Assuming Oracle Price Precision [Stackoverflow](https://ethereum.stackexchange.com/questions/92508/do-all-chainlink-feeds-return-prices-with-8-decimals-of-precision)
@@ -151,7 +153,7 @@ ref https://cll-devrel.gitbook.io/ccip-masterclass-2/ccip-masterclass/exercise-1
     - **Tip:** If protocol team created a contract and other contracts are inherited from it, make sure the higher in hierarchy (Primary)
         - are using storage gaps between storage variables
         - using namespace storage
-    - If not it can cause storage collisions during updradebility 
+    - If not it can cause storage collisions during updradebility  ( https://www.codehawks.com/finding/clrunirt300ocdc6tvlc9qyv0 )
     
 - UUPS
     - Ownable
@@ -229,6 +231,8 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
     - Low-level calls return success if there is no code present at the specified address, and this could lead to unexpected scenarios.
     - Ensure that the code is initialized by checking <address>.code.length > 0.
 
+- Uncleared approval, gives access to transfer token.
+    - always check for approvals, usually the approval is not removed and can lead to issues (e.g https://www.codehawks.com/finding/clruniruv00ogdc6t52hhlwtf )
 ## Re-entrancy issues
 
 - Common reentrancy
