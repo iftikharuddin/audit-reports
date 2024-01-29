@@ -5,8 +5,11 @@ This repository contains all the audit reports and their outcomes.
 ### Stake.link
 - [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)
 
-### Zero Land 
+### Zero Lend 
 - results awaiting
+
+### Blast L2
+- Coming soon ;)
 
 ### Superform 
 - [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform) 
