@@ -181,6 +181,11 @@ ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x200-Components
 
 ref https://github.com/ComposableSecurity/SCSVS/blob/master/2.0/0x300-Integrations/0x304-I4-Cross-Chain.md 
 
+- Should expose the proposed time in function getFailedDeposits #281 (Cantina)
+    - the function should also expose failed deposit proposed time to inform external integration the proposed time and whether the failed deposit is ready for rescue or dispute
+      
+     
+
 ## Extra known issues
 - [H-1]: Arbitrary from passed to transferFrom (or safeTransferFrom)
     - Passing an arbitrary `from` address to `transferFrom` (or `safeTransferFrom`) can lead to loss of funds, because anyone can transfer tokens `from` the from address if an approval is made.
