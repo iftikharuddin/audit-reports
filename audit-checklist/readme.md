@@ -238,6 +238,10 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
 
 - Uncleared approval, gives access to transfer token.
     - always check for approvals, usually the approval is not removed and can lead to issues (e.g https://www.codehawks.com/finding/clruniruv00ogdc6t52hhlwtf )
+
+- `stETH` can be paused
+    - https://solodit.xyz/issues/steth-can-be-paused-mixbytes-none-lido-markdown
+    
 ## Re-entrancy issues
 
 - Common reentrancy
