@@ -22,7 +22,7 @@
   <component name="ProjectId" id="2bBoTzU8uD3sfFPF0SkRFaZ9Zc8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/codehawk-first-flights" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
@@ -54,6 +54,7 @@
       <workItem from="1706276857339" duration="2026000" />
       <workItem from="1706555931576" duration="122000" />
       <workItem from="1706738554015" duration="275000" />
+      <workItem from="1706820592956" duration="153000" />
     </task>
     <servers />
   </component>
