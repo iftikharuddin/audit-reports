@@ -22,8 +22,13 @@
   <component name="ProjectId" id="2bBoTzU8uD3sfFPF0SkRFaZ9Zc8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/codehawk-first-flights" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codehawk-first-flights" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,6 +60,7 @@
       <workItem from="1706555931576" duration="122000" />
       <workItem from="1706738554015" duration="275000" />
       <workItem from="1706820592956" duration="153000" />
+      <workItem from="1706883995597" duration="418000" />
     </task>
     <servers />
   </component>

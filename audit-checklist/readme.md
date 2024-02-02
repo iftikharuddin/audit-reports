@@ -232,6 +232,9 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
     
 - Use of Solidity version 0.8.13 which has two known issues ( ABI Encoding )
 
+- Always check package.json for packages versions
+    - most OZ versions are vulnerable
+
 - Missing contract-existence checks before low-level calls
     - Low-level calls return success if there is no code present at the specified address, and this could lead to unexpected scenarios.
     - Ensure that the code is initialized by checking <address>.code.length > 0.
