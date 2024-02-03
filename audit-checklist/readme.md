@@ -266,6 +266,11 @@ While the problem is with the legacy optimizer, it is still correct to enforce l
     - Description: Some ERC20 tokens do not work when changing the allowance from an existing non-zero allowance value. For example Tether (USDT)'s approve() function will revert if the current approval is not zero, to protect against front-running changes of approvals.	    
     - Solution: Set the allowance to zero before increasing the allowance and use safeApprove/safeIncreaseAllowance.
 
+## AMM
+
+- Why You Should Stop Using block.timestamp as Deadline in Swaps
+    - https://web.archive.org/web/20230525014603/https://blog.bytes032.xyz/p/why-you-should-stop-using-block-timestamp-as-deadline-in-swaps
+    
 ## Informational issues    
 
 - #I-1 : internal function name doesn't start with an '_'. They should start with _ ( best case )
