@@ -1,5 +1,7 @@
 # stake.link - Findings Report
 
+Check results @ [CodeHawks](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)
+
 # Table of contents
 - ## [Contest Summary](#contest-summary)
 - ## [Results Summary](#results-summary)
