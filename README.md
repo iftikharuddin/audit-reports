@@ -5,17 +5,20 @@ This repository contains all the audit reports and their outcomes.
 ### Stake.link
 - [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)
 
-### Zero Lend 
-- results awaiting
-
-### Blast L2
-- Coming soon ;)
+### MorpheusAI
+- [MorpheusAI](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/MorpheusAI/Iftikhar-MorpheusAI.md)
 
 ### Superform 
 - [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform) 
 
 ### Morpho Blue 
 - [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue) 
+
+### Zero Lend 
+- results awaiting
+
+### Blast L2
+- Coming soon ;)
 
 ### Convergence 
 - [Convergence Report](https://github.com/iftikharuddin/audit-reports/tree/master/sherlock-audits/convergence) 
