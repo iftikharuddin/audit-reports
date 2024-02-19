@@ -5,6 +5,10 @@ This repository contains all the audit reports and their outcomes.
 ### Stake.link
 - [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)
 
+### Zero Lend 
+- [Zerolend Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/ZeroLend)
+- [Read in Cantina directly](https://cantina.xyz/code/a83eaf73-9cbc-495f-8607-e55d4fdaf407/findings/6f30b930-3264-4046-9b46-1ba8c48604a1?q=status%253Adisputed%252Crejected%252Cduplicate%252Cpotentially_duplicate%252Cconfirmed%252Cacknowledged%252Cfixed%252Cescalated%2520reviewers%253A0xTheBlackPanther)
+
 ### MorpheusAI
 - [MorpheusAI](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/MorpheusAI/Iftikhar-MorpheusAI.md)
 
@@ -14,8 +18,7 @@ This repository contains all the audit reports and their outcomes.
 ### Morpho Blue 
 - [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue) 
 
-### Zero Lend 
-- results awaiting
+
 
 ### Blast L2
 - Coming soon ;)
