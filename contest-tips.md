@@ -10,3 +10,6 @@
     - report medium/high with PoC
     - if code PoC is somehow impossible make a convincing PoC in text form ;)
 - Halmos testing
+- Solodit is your fren
+    - find all protocols reports which you are auditing
+    - you will find most of the common attack vectors
