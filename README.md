@@ -18,7 +18,8 @@ This repository contains all the audit reports and their outcomes.
 ### Morpho Blue 
 - [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue) 
 
-
+### Opal
+- coming soon
 
 ### Blast L2
 - Coming soon ;)
