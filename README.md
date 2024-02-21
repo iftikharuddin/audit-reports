@@ -60,3 +60,7 @@ This repository contains all the audit reports and their outcomes.
 ### First Flight #8: Math Master
 
 - [First Flight #8 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%238_-Math-Master.md)
+
+### First Flight #9: Soulmate
+
+- [First Flight #9 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%238_-Math-Master.md)

@@ -22,7 +22,7 @@
   <component name="ProjectId" id="2bBoTzU8uD3sfFPF0SkRFaZ9Zc8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/code-hawk-audits/MorpheusAI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/codehawk-first-flights" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
@@ -69,6 +69,7 @@
       <workItem from="1707250879136" duration="1266000" />
       <workItem from="1708373782644" duration="333000" />
       <workItem from="1708479336907" duration="65000" />
+      <workItem from="1708479793626" duration="314000" />
     </task>
     <servers />
   </component>
