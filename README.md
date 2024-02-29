@@ -21,7 +21,7 @@ This repository contains all the audit reports and their outcomes.
 ### Opal
 - coming soon
 
-### Blast L2
+### Arcade
 - Coming soon ;)
 
 ### Convergence 
