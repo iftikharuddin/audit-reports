@@ -24,6 +24,9 @@ This repository contains all the audit reports and their outcomes.
 ### Arcade
 - Coming soon ;)
 
+### Beanstalk
+- Coming soon ;)
+
 ### Convergence 
 - [Convergence Report](https://github.com/iftikharuddin/audit-reports/tree/master/sherlock-audits/convergence) 
 
