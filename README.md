@@ -25,7 +25,7 @@ This repository contains all the audit reports and their outcomes.
 - Coming soon ;)
 
 ### Beanstalk
-- Coming soon ;)
+- [Beanstalk Report] (https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md)
 
 ### Convergence 
 - [Convergence Report](https://github.com/iftikharuddin/audit-reports/tree/master/sherlock-audits/convergence) 
