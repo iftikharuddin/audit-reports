@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="584010e9-e178-4969-94d4-5c789af6950e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cantina-audits/Venus/venus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-hawk-audits/Beanstalk/Beanstalk.md" beforeDir="false" afterPath="$PROJECT_DIR$/code-hawk-audits/Beanstalk/Beanstalk.md" afterDir="false" />
-    </list>
+    <list default="true" id="584010e9-e178-4969-94d4-5c789af6950e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +27,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code-hawk-audits/Beanstalk" />
       <recent name="$PROJECT_DIR$/codehawk-first-flights" />
       <recent name="$PROJECT_DIR$/code-hawk-audits/MorpheusAI" />
     </key>
@@ -79,6 +76,7 @@
       <workItem from="1710270593398" duration="94000" />
       <workItem from="1711140253025" duration="81000" />
       <workItem from="1711306793217" duration="66000" />
+      <workItem from="1712350216947" duration="152000" />
     </task>
     <servers />
   </component>
