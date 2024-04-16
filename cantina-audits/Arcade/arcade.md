@@ -2,6 +2,8 @@
 
 Below finding lead to `16k$+` rewards, and 2nd position in Arcade contest on Cantina. This was a unique `medium`
 
+**Result link:** https://x.com/cantinaxyz/status/1779959887444820174
+
 ## **Summary**
 
 There is a stepwise jump vulnerability within the LoanCore affiliate fee split configuration. The `setAffiliateSplits` function, callable by an admin role, allows for modifications to the affiliate fee splits without a gradual adjustment or notification to users. This could lead to abrupt changes in protocol fees and potentially impact users relying on the existing fee structure.

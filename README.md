@@ -2,6 +2,9 @@
 
 This repository contains all the audit reports and their outcomes.
 
+### Arcade
+- [Arcade Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Arcade/arcade.md)
+
 ### Stake.link
 - [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)
 
@@ -20,9 +23,6 @@ This repository contains all the audit reports and their outcomes.
 
 ### Opal
 - coming soon
-
-### Arcade
-- Coming soon ;)
 
 ### Beanstalk
 - [Beanstalk Report] (https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md)
