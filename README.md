@@ -14,13 +14,13 @@ This repository contains all the audit reports and their outcomes.
 | Beanstalk           | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md) |
 | Venus               | [Venus Report](#) |
 
-____
 
-Below are mocks projects or first flights I did and their outcomes.
+##
+
+Below are mocks projects audits or first flights I did and their outcomes.
 
 | Audit Project (Mocks )      | Report Link                                                                                           |
 |---------------------|-------------------------------------------------------------------------------------------------------|
-| Tswap               | [Tswap report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/security-course/5-t-swap-audit.md) |
 | First Flight #1     | [First Flight #1 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%231_-PasswordStore.md) |
 | First Flight #2     | [First Flight #2 details](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%232_-Puppy-Raffle.md) |
 | First Flight #3     | [First Flight #3 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%233_-Thunder-Loan.md) |
@@ -30,3 +30,4 @@ Below are mocks projects or first flights I did and their outcomes.
 | First Flight #7     | [First Flight #7 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%237_-Horse-Store.md) |
 | First Flight #8     | [First Flight #8 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%238_-Math-Master.md) |
 | First Flight #9     | [First Flight #9 report](https://github.com/iftikharuddin/audit-reports/blob/master/codehawk-first-flights/Iftikhar-First-Flight-%239_-Soulmate.md) |
+| Tswap               | [Tswap report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/security-course/5-t-swap-audit.md) |
