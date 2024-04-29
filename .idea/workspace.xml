@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="584010e9-e178-4969-94d4-5c789af6950e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cantina-audits/Euler/Euler.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cantina-audits/opaldefi.xyz/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/cantina-audits/opaldefi.xyz/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +81,8 @@
       <workItem from="1711306793217" duration="66000" />
       <workItem from="1712350216947" duration="152000" />
       <workItem from="1712439764457" duration="86000" />
+      <workItem from="1713306236757" duration="404000" />
+      <workItem from="1714350773659" duration="259000" />
     </task>
     <servers />
   </component>
