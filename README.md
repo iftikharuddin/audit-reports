@@ -1,19 +1,18 @@
 ## My Audit reports
 
 This repository contains all the audit reports and their outcomes.
-
-| **Audit Project**   | **Report Link**                                                                                           |
-|---------------------|-------------------------------------------------------------------------------------------------------|
-| Arcade              | [Arcade Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Arcade/arcade.md) |
-| Stake.link          | [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md) |
-| Opal                | [Opal](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/opaldefi.xyz)      |
-| Zero Lend           | [Zerolend Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/ZeroLend) |
-| MorpheusAI          | [MorpheusAI](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/MorpheusAI/Iftikhar-MorpheusAI.md) |
-| Superform           | [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform) |
-| Morpho Blue         | [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue) |
-| Beanstalk           | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md) |
-| Venus               | [Venus Report](#) |
-| Euler               | [Euler Report](#) |
+| **Audit Project** | Findings        | **Report Link**                                                                                                                                         |
+|--------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arcade             | 1 M (2nd Rank) | [Arcade Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Arcade/arcade.md)                                        |
+| Stake.link         | 1 H, 2 L (7 Rank) | [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)                 |
+| Opal               | 1 H, 7 M, 2 L (12 Rank)   | [Opal](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/opaldefi.xyz)                                                     |
+| Zero Lend          | 1 M (15 Rank)            | [Zerolend Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/ZeroLend)                                                |
+| MorpheusAI         | 3 L (19 Rank)             | [MorpheusAI](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/MorpheusAI/Iftikhar-MorpheusAI.md)                          |
+| Superform          | NA              | [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform)                                               |
+| Morpho Blue        | NA              | [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue)                                           |
+| Beanstalk          | 1 L (Rank 9)            | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md)                |
+| Venus              | NA              | [Venus Report](#)                                                                                                                                       |
+| Euler              | NA              | [Euler Report](#)                                                                                                                                       |
 
 
 ##
