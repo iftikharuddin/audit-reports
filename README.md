@@ -13,6 +13,7 @@ This repository contains all the audit reports and their outcomes.
 | Morpho Blue         | [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue) |
 | Beanstalk           | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md) |
 | Venus               | [Venus Report](#) |
+| Euler               | [Euler Report](#) |
 
 
 ##
