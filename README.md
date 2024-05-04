@@ -1,18 +1,19 @@
 ## My Audit reports
 
 This repository contains all the audit reports and their outcomes.
-| **Audit Project** | Findings        | **Report Link**                                                                                                                                         |
-|--------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arcade             | 1 M (2nd Rank) | [Arcade Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Arcade/arcade.md)                                        |
-| Venus              | 6 L (3rd Rank)        | [Venus Report](#)                                                                                                                                       |
-| Stake.link         | 1 H, 2 L (7 Rank) | [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)                 |
-| Opal               | 1 H, 7 M, 2 L (12 Rank)   | [Opal](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/opaldefi.xyz)                                                     |
-| Zero Lend          | 1 M (15 Rank)            | [Zerolend Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/ZeroLend)                                                |
-| MorpheusAI         | 3 L (19 Rank)             | [MorpheusAI](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/MorpheusAI/Iftikhar-MorpheusAI.md)                          |
-| Superform          | NA              | [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform)                                               |
-| Morpho Blue        | NA              | [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue)                                           |
-| Beanstalk          | 1 L (Rank 9)            | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md)                |
-| Euler              | NA              | [Euler Report](#)                                                                                                                                       |
+
+| **Audit Project** | **Findings**        | **Report Link**                                                                                                                                         | **Rank** |
+|-------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Arcade            | 1 M (2nd Rank)    | [Arcade Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Arcade/arcade.md)                                             | 2        |
+| Venus             | 6 L (3rd Rank)    | [Venus Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Venus/venus.md)                                                | 3        |
+| Stake.link        | 1 H, 2 L (7th Rank)| [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)                       | 7        |
+| Opal              | 1 H, 7 M, 2 L (12th Rank) | [Opal](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/opaldefi.xyz)                                                        | 12       |
+| Zero Lend         | 1 M (15th Rank)   | [Zerolend Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/ZeroLend)                                                  | 15       |
+| MorpheusAI        | 3 L (19th Rank)   | [MorpheusAI](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/MorpheusAI/Iftikhar-MorpheusAI.md)                            | 19       |
+| Superform         | NA                | [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform)                                                | NA       |
+| Morpho Blue       | NA                | [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue)                                            | NA       |
+| Beanstalk         | 1 L (Rank 9)      | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md)                  | 9        |
+| Euler             | NA                | [Euler Report](#)                                                                                                                                       | NA       |
 
 
 ##
