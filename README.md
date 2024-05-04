@@ -4,6 +4,7 @@ This repository contains all the audit reports and their outcomes.
 | **Audit Project** | Findings        | **Report Link**                                                                                                                                         |
 |--------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Arcade             | 1 M (2nd Rank) | [Arcade Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Arcade/arcade.md)                                        |
+| Venus              | 6 L (3rd Rank)        | [Venus Report](#)                                                                                                                                       |
 | Stake.link         | 1 H, 2 L (7 Rank) | [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)                 |
 | Opal               | 1 H, 7 M, 2 L (12 Rank)   | [Opal](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/opaldefi.xyz)                                                     |
 | Zero Lend          | 1 M (15 Rank)            | [Zerolend Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/ZeroLend)                                                |
@@ -11,7 +12,6 @@ This repository contains all the audit reports and their outcomes.
 | Superform          | NA              | [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform)                                               |
 | Morpho Blue        | NA              | [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue)                                           |
 | Beanstalk          | 1 L (Rank 9)            | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md)                |
-| Venus              | NA              | [Venus Report](#)                                                                                                                                       |
 | Euler              | NA              | [Euler Report](#)                                                                                                                                       |
 
 

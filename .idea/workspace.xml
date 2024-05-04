@@ -4,6 +4,7 @@
     <list default="true" id="584010e9-e178-4969-94d4-5c789af6950e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cantina-audits/Venus/venus.md" beforeDir="false" afterPath="$PROJECT_DIR$/cantina-audits/Venus/venus.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +84,8 @@
       <workItem from="1712439764457" duration="86000" />
       <workItem from="1713306236757" duration="404000" />
       <workItem from="1714350773659" duration="1232000" />
-      <workItem from="1714353904460" duration="297000" />
+      <workItem from="1714353904460" duration="584000" />
+      <workItem from="1714810881573" duration="422000" />
     </task>
     <servers />
   </component>
