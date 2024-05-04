@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="584010e9-e178-4969-94d4-5c789af6950e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="584010e9-e178-4969-94d4-5c789af6950e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,7 @@
   <component name="ProjectId" id="2bBoTzU8uD3sfFPF0SkRFaZ9Zc8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/code-hawk-audits/Beanstalk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code-hawk-audits/Beanstalk - Beanstalk Part 2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
@@ -83,7 +81,7 @@
       <workItem from="1713306236757" duration="404000" />
       <workItem from="1714350773659" duration="1232000" />
       <workItem from="1714353904460" duration="584000" />
-      <workItem from="1714810881573" duration="903000" />
+      <workItem from="1714810881573" duration="1079000" />
     </task>
     <servers />
   </component>
