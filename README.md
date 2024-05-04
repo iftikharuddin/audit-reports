@@ -13,7 +13,7 @@ This repository contains all the audit reports and their outcomes.
 | Superform         | NA                | [Superform Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/superform)                                                | NA       |
 | Morpho Blue       | NA                | [Morpho Blue Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/morpho-blue)                                            | NA       |
 | Beanstalk         | 1 L (Rank 9)      | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md)                  | 9        |
-| Beanstalk Part 2  | 1 M                | [Beanstalk Part 2 Report](#)                                                                                                                           | 7       |
+| Beanstalk Part 2  | 1 M                | [Beanstalk Part 2 Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk%20-%20Beanstalk%20Part%202/Beanstalk-Part-2.md)                                                                                                                           | 7       |
 | Euler             | NA                | [Euler Report](#)                                                                                                                                       | NA       |
 
 
