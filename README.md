@@ -15,6 +15,7 @@ This repository contains all the audit reports and their outcomes.
 | Beanstalk         | 1 L (Rank 9)      | [Beanstalk Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk/Iftikhar-Beanstalk-Part-1.md)                  | 9        |
 | Beanstalk Part 2  | 1 M                | [Beanstalk Part 2 Report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Beanstalk%20-%20Beanstalk%20Part%202/Beanstalk-Part-2.md)                                                                                                                           | 7       |
 | Euler             | NA                | [Euler Report](#)                                                                                                                                       | NA       |
+| YOLO Games        | 1 M  (Rank 6)     | [YOLO Games](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/readme.md)                                                                                                                                       | NA       |
 
 
 ##
