@@ -22,6 +22,8 @@ This repository contains all the audit reports and their outcomes.
 | NeoX_Bridge (Private)       | 1L, 3I | [NeoX_Bridge](#)                     | 6       |                                                                                                                  | NA       |
 | RewardStation (Private)        | 2I | [RewardStation](#)                     | 13       |                                                                                                                  | NA       |
 | Doodles (Private)        | Coming soon | [Doodles](#)                     | NA       |                                                                                                                  | NA       |
+| Starknet staking        | Coming soon | [Starknet staking](#)                     | NA       |                                                                                                                  | NA       |
+| Chakra        | Coming soon | [Chakra](#)                     | NA       |                                                                                                                  | NA       |
 
 
 ##
