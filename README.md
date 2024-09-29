@@ -1,3 +1,11 @@
+
+## My Bounties reports
+
+
+| **Bounty Project** | **Findings**        | **Report Link**                                                                                                                                         
+|-------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OpenZeppelin      | 1 M     | [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts/security/advisories/GHSA-w2px-25pm-2cf9)                                            
+
 ## My Audit reports
 
 This repository contains all the audit reports and their outcomes.
@@ -25,13 +33,6 @@ This repository contains all the audit reports and their outcomes.
 | Starknet staking        | Coming soon | [Starknet staking](#)                     | NA       |                                                                                                                  | NA       |
 | Chakra        | Coming soon | [Chakra](#)                     | NA       |                                                                                                                  | NA       |
 
-
-## My Bounties reports
-
-
-| **Bounty Project** | **Findings**        | **Report Link**                                                                                                                                         
-|-------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| OpenZeppelin      | 1 M     | [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts/security/advisories/GHSA-w2px-25pm-2cf9)                                            
 
 ##
 
