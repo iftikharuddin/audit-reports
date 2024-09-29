@@ -17,14 +17,21 @@ This repository contains all the audit reports and their outcomes.
 | Euler             | NA                | [Euler Report](#)                                                                                                                                       | NA       |
 | YOLO Games        | 1 M      | [YOLO Games](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/YOLO%20Games/readme.md)                                                  | 6       |                                                                                     | NA       |
 | Biconomy          | 2 M    | [Biconomy](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Biconomy%3A%20Nexus/Iftikhar-Biconomy_-Nexus.md)                     | 14       |                                                                                                                  | NA       |
-| ArkProject        | 1H, 2M, 1L    | [ArkProject](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/ArkProject/Iftikhar-ArkProject_-NFT-Bridge.md)                     | 20       |                                                                                                                  | NA       |
-| Centrifuge        | 1M  | [Centrifuge](#)                     | NA       |                                                                                                                  | NA       |
+| ArkProject (Cairo)        | 1H, 2M, 1L    | [ArkProject](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/ArkProject/Iftikhar-ArkProject_-NFT-Bridge.md)                     | 20       |                                                                                                                  | NA       |
+| Centrifuge (Rust)       | 1M  | [Centrifuge](#)                     | NA       |                                                                                                                  | NA       |
 | NeoX_Bridge (Private)       | 1L, 3I | [NeoX_Bridge](#)                     | 6       |                                                                                                                  | NA       |
 | RewardStation (Private)        | 2I | [RewardStation](#)                     | 13       |                                                                                                                  | NA       |
 | Doodles (Private)        | Coming soon | [Doodles](#)                     | NA       |                                                                                                                  | NA       |
 | Starknet staking        | Coming soon | [Starknet staking](#)                     | NA       |                                                                                                                  | NA       |
 | Chakra        | Coming soon | [Chakra](#)                     | NA       |                                                                                                                  | NA       |
 
+
+## My Bounties reports
+
+
+| **Bounty Project** | **Findings**        | **Report Link**                                                                                                                                         
+|-------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OpenZeppelin      | 1 M     | [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts/security/advisories/GHSA-w2px-25pm-2cf9)                                            
 
 ##
 
