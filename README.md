@@ -17,6 +17,7 @@ This repository contains all the audit reports and their outcomes.
 | Euler             | NA                | [Euler Report](#)                                                                                                                                       | NA       |
 | YOLO Games        | 1 M  (Rank 6)     | [YOLO Games](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/YOLO%20Games/readme.md)                                                  | 6       |                                                                                     | NA       |
 | Biconomy          | 2 M  (Rank 14)     | [Biconomy](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Biconomy%3A%20Nexus/Iftikhar-Biconomy_-Nexus.md)                     | 14       |                                                                                                                  | NA       |
+| ArkProject        | 1H, 2M, 1L  (Rank 20)     | [ArkProject](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Biconomy%3A%20Nexus/Iftikhar-Biconomy_-Nexus.md)                     | 20       |                                                                                                                  | NA       |
 
 
 ##
