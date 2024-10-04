@@ -35,6 +35,7 @@ This repository contains all the audit reports and their outcomes.
 | Chakra        | Coming soon | [Chakra](#)                     | NA       |                                                                                                                  | NA       |
 | Redstone (Sway)        | Coming soon | [Redstone](#)                     | NA       |                                                                                                                  | NA       |
 | Stake.link LST        | Coming soon | [Stake.link LST](#)                     | NA       |                                                                                                                  | NA       |
+| Zeta Chain        | 2 M | [ZetaChain](#)                     | NA       |                                                                                                                  | NA       |
 
 
 ##
