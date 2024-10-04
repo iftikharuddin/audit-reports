@@ -33,6 +33,8 @@ This repository contains all the audit reports and their outcomes.
 | Doodles (Private)        | Coming soon | [Doodles](#)                     | NA       |                                                                                                                  | NA       |
 | Starknet staking        | Coming soon | [Starknet staking](#)                     | NA       |                                                                                                                  | NA       |
 | Chakra        | Coming soon | [Chakra](#)                     | NA       |                                                                                                                  | NA       |
+| Redstone (Sway)        | Coming soon | [Redstone](#)                     | NA       |                                                                                                                  | NA       |
+| Stake.link LST        | Coming soon | [Stake.link LST](#)                     | NA       |                                                                                                                  | NA       |
 
 
 ##
