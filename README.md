@@ -33,7 +33,7 @@ This repository contains all the audit reports and their outcomes.
 | Doodles (Private)        | Coming soon | [Doodles](#)                     | NA       |                                                                                                                  | NA       |
 | Starknet staking (Cairo)       | 1H, 1M, 1L | [Starknet staking](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Starknet-Staking/Iftikhar-Staking.md)                     | NA       |                                                                                                                  | NA       |
 | Chakra        | Coming soon | [Chakra](#)                     | NA       |                                                                                                                  | NA       |
-| Redstone (Sway)        | Coming soon | [Redstone](#)                     | NA       |                                                                                                                  | NA       |
+| Redstone (Sway)        | 1H, 1L, Coming soon | [Redstone](#)                     | NA       |                                                                                                                  | NA       |
 | Stake.link LST        | Coming soon | [Stake.link LST](#)                     | NA       |                                                                                                                  | NA       |
 | Zeta Chain        | 2 M | [ZetaChain](#)                     | NA       |                                                                                                                  | NA       |
 
