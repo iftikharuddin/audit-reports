@@ -36,6 +36,9 @@ This repository contains all the audit reports and their outcomes.
 | Redstone (Sway)        | 1H, 1L, Coming soon | [Redstone](#)                     | NA       |                                                                                                                  | NA       |
 | Stake.link LST        | Coming soon | [Stake.link LST](#)                     | NA       |                                                                                                                  | NA       |
 | Zeta Chain        | 2 M | [ZetaChain](#)                     | NA       |                                                                                                                  | NA       |
+| Primev        | Coming Soon | [Primev](#)                     | NA       |                                                                                                                  | NA       |
+| StakeUp        | Coming Soon | [StakeUp](#)                     | NA       |                                                                                                                  | NA       |
+| Omni        | Coming Soon | [Omni](#)                     | NA       |                                                                                                                  | NA       |
 
 
 ##
