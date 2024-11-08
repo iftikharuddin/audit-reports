@@ -17,7 +17,6 @@ This repository contains all the audit reports and their outcomes.
 | Redstone (Sway)        | 1H, 1M, 1L | [Redstone](#)                     | 6       |                                                                                                                  | NA       |
 | Stake.link        | 1 H, 2 L | [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)                       | 7        |
 | YOLO Games        | 1 M      | [YOLO Games](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/YOLO%20Games/readme.md)                                                  | 6       |                                                                                     | NA       |
-
 | Opal              | 1 H, 7 M, 2 L  | [Opal](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/opaldefi.xyz)                                                        | 12       |
 | Zero Lend         | 1 M    | [Zerolend Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/ZeroLend)                                                  | 15       |
 | MorpheusAI        | 3 L    | [MorpheusAI](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/MorpheusAI/Iftikhar-MorpheusAI.md)                            | 19       |
