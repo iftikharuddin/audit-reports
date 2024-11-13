@@ -39,7 +39,7 @@ This repository contains all the audit reports and their outcomes.
 | Primev        | Coming Soon | [Primev](#)                     | NA       |                                                                                                                  | NA       |
 | StakeUp        | Coming Soon | [StakeUp](#)                     | NA       |                                                                                                                  | NA       |
 | Omni        | Coming Soon | [Omni](#)                     | NA       |                                                                                                                  | NA       |
-| Sablier Flow        | Coming Soon | [Flow](#)                     | NA       |                                                                                                                  | NA       |
+| Sablier Flow        | 1L | [Flow](#)                     | 12       |                                                                                                                  | NA       |
 | Swan Drai        | Coming Soon | [Drai](#)                     | NA       |                                                                                                                  | NA       |
 | Tensor (Rust)        | Coming Soon | [Tensor](#)                     | NA       |                                                                                                                  | NA       |
 
