@@ -13,6 +13,7 @@ This repository contains all the audit reports and their outcomes.
 | **Audit Project** | **Findings**        | **Report Link**                                                                                                                                         | **Rank** |
 |-------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | Arcade            | 1 M     | [Arcade Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Arcade/arcade.md)                                             | ![2nd Place](https://img.shields.io/badge/Rank-2-yellow)        |
+| Tensor (Rust)        | 2H, 1M | [Tensor](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard)       | ![3rd Place](https://img.shields.io/badge/Rank-3-orange       |                                                                                                                  | NA       |
 | Venus             | 6 L   | [Venus Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Venus/venus.md)                                                | ![3rd Place](https://img.shields.io/badge/Rank-3-orange)        |
 | Redstone (Sway)        | 1H, 1M, 1L | [Redstone](#)                     | 6       |                                                                                                                  | NA       |
 | Stake.link        | 1 H, 2 L | [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md)                       | 7        |
@@ -41,7 +42,6 @@ This repository contains all the audit reports and their outcomes.
 | Omni        | Coming Soon | [Omni](#)                     | NA       |                                                                                                                  | NA       |
 | Sablier Flow        | 1L | [Flow](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Flow/Iftikhar-Flow.md)                     | 12       |                                                                                                                  | NA       |
 | Swan Drai        | Coming Soon | [Drai](#)                     | NA       |                                                                                                                  | NA       |
-| Tensor (Rust)        | Coming Soon | [Tensor](#)                     | NA       |                                                                                                                  | NA       |
 
 
 ##

@@ -26,18 +26,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code-hawk-audits/Liquid-Staking" />
+      <recent name="$PROJECT_DIR$/code-hawk-audits/Flow" />
+      <recent name="$PROJECT_DIR$/code-hawk-audits/Starknet-Staking" />
+      <recent name="$PROJECT_DIR$/code-hawk-audits/Zaros" />
+      <recent name="$PROJECT_DIR$/code-hawk-audits/ArkProject" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/code-hawk-audits/Beanstalk - Beanstalk Part 2" />
       <recent name="$PROJECT_DIR$/code-hawk-audits/Beanstalk" />
       <recent name="$PROJECT_DIR$/codehawk-first-flights" />
       <recent name="$PROJECT_DIR$/code-hawk-audits/MorpheusAI" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/code-hawk-audits/Flow" />
-      <recent name="$PROJECT_DIR$/code-hawk-audits/Starknet-Staking" />
-      <recent name="$PROJECT_DIR$/code-hawk-audits/Zaros" />
-      <recent name="$PROJECT_DIR$/code-hawk-audits/ArkProject" />
-      <recent name="$PROJECT_DIR$/code-hawk-audits/Biconomy: Nexus" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -102,6 +102,7 @@
       <workItem from="1729361377886" duration="230000" />
       <workItem from="1731101086487" duration="478000" />
       <workItem from="1731538733906" duration="299000" />
+      <workItem from="1731847424521" duration="292000" />
     </task>
     <servers />
   </component>
