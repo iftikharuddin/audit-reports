@@ -42,6 +42,8 @@ This repository contains all the audit reports and their outcomes.
 | Omni        | Coming Soon | [Omni](#)                     | NA       |                                                                                                                  | NA       |
 | Sablier Flow        | 1L | [Flow](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Flow/Iftikhar-Flow.md)                     | 12       |                                                                                                                  | NA       |
 | Swan Drai        | Coming Soon | [Drai](#)                     | NA       |                                                                                                                  | NA       |
+| Juicebox        | Coming Soon | [Juicebox](#)                     | NA       |                                                                                                                  | NA       |
+| Bima        | Coming Soon | [Juicebox](#)                     | NA       |                                                                                                                  | NA       |
 
 
 ##
