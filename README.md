@@ -19,6 +19,7 @@
 | Redstone (Sway) | 1H, 1M, 1L | [Redstone](#) | 6 |
 | Stake.link | 1 H, 2 L | [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md) | 7 |
 | YOLO Games | 1 M | [YOLO Games](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/YOLO%20Games/readme.md) | 6 |
+| Bima | 1 H, 3 M | [Bima](https://cantina.xyz/competitions/44d68da7-3cf4-4cec-a3f8-f0917062dac6/leaderboard) | 8 |
 | Opal | 1 H, 7 M, 2 L | [Opal](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/opaldefi.xyz) | 12 |
 | Zero Lend | 1 M | [Zerolend Report](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/ZeroLend) | 15 |
 | MorpheusAI | 3 L | [MorpheusAI](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/MorpheusAI/Iftikhar-MorpheusAI.md) | 19 |
