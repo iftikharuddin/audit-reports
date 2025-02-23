@@ -45,6 +45,7 @@
 | Sablier Flow | 1L | [Flow](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Flow/Iftikhar-Flow.md) | 12 |
 | Swan Drai | Coming Soon | [Drai](#) | NA |
 | Cudis (Rust) | Private Coming soon | [Cudis](#) | NA |
+| Chorus-one TON (Func) | 1 H, 1 M | [Chorus-one](#) | NA |
 
 ## Mock Projects & First Flights
 
