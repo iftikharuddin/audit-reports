@@ -44,7 +44,7 @@
 | Omni | Coming Soon | [Omni](#) | NA |
 | Sablier Flow | 1L | [Flow](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Flow/Iftikhar-Flow.md) | 12 |
 | Swan Drai | Coming Soon | [Drai](#) | NA |
-| Bima | Coming Soon | [Juicebox](#) | NA |
+| Cudis (Rust) | Private Coming soon | [Cudis](#) | NA |
 
 ## Mock Projects & First Flights
 
