@@ -46,6 +46,7 @@
 | Swan Drai | Coming Soon | [Drai](#) | NA |
 | Cudis (Rust) | Private Coming soon | [Cudis](#) | NA |
 | Chorus-one TON (Func) | 1 H, 1 M | [Chorus-one](#) | NA |
+| Dahlia | 4M | [Dahlia](#) | NA |
 
 ## Mock Projects & First Flights
 
