@@ -46,7 +46,8 @@
 | Swan Drai | Coming Soon | [Drai](#) | NA |
 | Cudis (Rust) | Private Coming soon | [Cudis](#) | NA |
 | Chorus-one TON (Func) | 1 H, 1 M | [Chorus-one](#) | NA |
-| Dahlia | 4M | [Dahlia](#) | NA |
+| Dahlia | 4M | [Dahlia](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b/leaderboard) | 10 |
+| Farcaster | 2M | [Farcaster](https://cantina.xyz/competitions/f9326d2b-bb99-45a9-88c5-94c54aa1823a/leaderboard) | 17 |
 
 ## Mock Projects & First Flights
 
