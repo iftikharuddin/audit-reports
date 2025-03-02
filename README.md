@@ -38,10 +38,8 @@
 | Starknet staking (Cairo) | 1H, 1M, 1L | [Starknet staking](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Starknet-Staking/Iftikhar-Staking.md) | 9 |
 | Chakra (Cairo) | 2H, 1M | [Chakra](#) | NA |
 | Stake.link LST | 1H, 2L | [Stake.link LST](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Liquid-Staking/Iftikhar-Liquid-Staking.md) | 21 |
-| Zeta Chain | 2 M | [ZetaChain](#) | NA |
-| Primev | Coming Soon | [Primev](#) | NA |
-| StakeUp | Coming Soon | [StakeUp](#) | NA |
-| Omni | Coming Soon | [Omni](#) | NA |
+| Zeta Chain | 2M | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e/leaderboard) | 78 |
+| StakeUp | 1M | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf/leaderboard) | 26 |
 | Sablier Flow | 1L | [Flow](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Flow/Iftikhar-Flow.md) | 12 |
 | Swan Drai | Coming Soon | [Drai](#) | NA |
 | Cudis (Rust) | Private Coming soon | [Cudis](#) | NA |
