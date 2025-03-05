@@ -43,7 +43,7 @@
 | Sablier Flow | 1L | [Flow](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/Flow/Iftikhar-Flow.md) | 12 |
 | Swan Drai | Coming Soon | [Drai](#) | NA |
 | Cudis (Rust) | Private Coming soon | [Cudis](#) | NA |
-| Chorus-one TON (Func) | 1 H, 1 M | [Chorus-one](#) | NA |
+| Chorus-one TON (Func) | 1 H | [Chorus-one](https://cantina.xyz/competitions/e9e9b3e0-f213-45e4-8d05-d72bf0c8787a/leaderboard) | 7 |
 | Dahlia | 4M | [Dahlia](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b/leaderboard) | 10 |
 | Farcaster | 2M | [Farcaster](https://cantina.xyz/competitions/f9326d2b-bb99-45a9-88c5-94c54aa1823a/leaderboard) | 17 |
 
