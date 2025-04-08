@@ -11,7 +11,7 @@
 |---------|----------|--------|------------|--------|
 | Noodles | 2 M, 5 L | Private | Bonding Curves | Pashov |
 
-# Public Audits
+## Public Audits
 
 | Project | Findings | Report Link | Rank |
 |---------|----------|-------------|------|
