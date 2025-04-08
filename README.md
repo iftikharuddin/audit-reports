@@ -7,9 +7,9 @@
 | OpenZeppelin      | 1 M     | [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts/security/advisories/GHSA-w2px-25pm-2cf9)                                            
 
 ## Private Audits
-| Project | Findings | Report Link | Where? |
+| Project | Findings | Report | Category?  | Where?
 |---------|----------|-------------|------|
-| Noodles | 2 M, 5 L | Private | Pashov |
+| Noodles | 2 M, 5 L | Private | Bonding Curves | Pashov |
 
 # Public Audits
 
