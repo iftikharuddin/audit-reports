@@ -10,8 +10,8 @@
 
 | Project     | Findings           | Report  | Category        | Duration             | Location |
 | ----------- | ------------------ | ------- | --------------- | -------------------- | -------- |
-| **Noodles** | 2 Medium<br>5 Low  | Private | Bonding Curves  | 11 Mar – 14 Mar 2025 | Pashov   |
-| **Rip.fun** | 2 High<br>6 Medium | Private | NFT Marketplace | 25 Apr – 2 May 2025  | Pashov   |
+| **Noodles** | 2 M, 5 L  | Private | Bonding Curves  | 11 Mar – 14 Mar, 2025 | Pashov   |
+| **Rip.fun** | 2 H, 6 M | Private | NFT Marketplace | 25 Apr – 2 May, 2025  | Pashov   |
 
 
 ## Public Audits
