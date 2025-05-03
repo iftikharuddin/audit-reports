@@ -10,6 +10,7 @@
 | Project | Findings | Report | Category?  | Where? |
 |---------|----------|--------|------------|--------|
 | Noodles | 2 M, 5 L | Private | Bonding Curves | Pashov |
+| Rip.fun | 2 H, 6 M | Private | NFTs Marketplace | Pashov |
 
 ## Public Audits
 
