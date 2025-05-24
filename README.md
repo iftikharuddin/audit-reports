@@ -23,6 +23,7 @@
 | **Venus** | 6 L | [Venus Report](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Venus/venus.md) | ![3rd Place](https://img.shields.io/badge/Rank-3-orange) |
 | **Juicebox** | 2 M, 8 L | [Juicebox](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4/leaderboard) | ![3rd Place](https://img.shields.io/badge/Rank-3-orange) |
 | **Velvet** | NA | [NA](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4/leaderboard) | ![NA](https://img.shields.io/badge/Rank-3-orange) |
+| **Infini** | NA | [NA](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4/leaderboard) | ![NA](https://img.shields.io/badge/Rank-2-yellow) |
 | Redstone (Sway) | 1H, 1M, 1L | [Redstone](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd/leaderboard) | 6 |
 | Stake.link | 1 H, 2 L | [Stakelink report](https://github.com/iftikharuddin/audit-reports/blob/master/code-hawk-audits/stake.link/Iftikhar-stake.link.md) | 7 |
 | YOLO Games | 1 M | [YOLO Games](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/YOLO%20Games/readme.md) | 6 |
