@@ -52,4 +52,5 @@
 | Chorus-one TON (Func) | 1 H | [Chorus-one](https://cantina.xyz/competitions/e9e9b3e0-f213-45e4-8d05-d72bf0c8787a/leaderboard) | 7 |
 | Dahlia | 4M | [Dahlia](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b/leaderboard) | 10 |
 | Farcaster | 2M | [Farcaster](https://cantina.xyz/competitions/f9326d2b-bb99-45a9-88c5-94c54aa1823a/leaderboard) | 17 |
+| MightyFi | 6H, 3M | [MightyFi](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/leaderboard) | 20 |
 
