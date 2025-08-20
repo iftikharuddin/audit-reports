@@ -1,10 +1,9 @@
 
 ## My Bounties reports
 
-
-| **Bounty Project** | **Findings**        | **Report Link**                                                                                                                                         
-|-------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| OpenZeppelin      | 1 M     | [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts/security/advisories/GHSA-w2px-25pm-2cf9)                                            
+| **Bounty Project** | **Language** | **Findings** | **Report Link**                                                                                                                                         
+|-------------------|--------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OpenZeppelin      | Cairo        | 1 M          | [OpenZeppelin Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts/security/advisories/GHSA-w2px-25pm-2cf9)
 
 ## Private Audits
 
