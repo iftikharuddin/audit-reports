@@ -13,7 +13,7 @@
 | **Rip.fun** |    Solidity      | 2 H, 6 M, 6 L | Private | NFT Marketplace | 25 Apr – 2 May, 2025  | Pashov   |
 | **Elytra** |      Solidity     | 3 M, 7 L | Private | Liquid Restaking | 27 July – 3 Aug, 2025  | Pashov   |
 | **Elixir** | Sui Move     | 5 M, 10 L | Private | RWA + Stablecoin | 17 Aug – 22 Aug, 2025  | Pashov   |
-| **Funnel** | CS     | CS | Private | CS | NA Aug – NA Aug, 2025  | Pashov   |
+| **Funnel** | CS     | CS | Private | UniswapV3 fork | 28 Aug – 29 Aug, 2025  | Pashov   |
 | **Instruxi** | CS     | CS | Private | CS | NA Aug – NA Aug, 2025  | Pashov   |
 
 ## Public Audits
