@@ -14,7 +14,7 @@
 | **Elytra** |      Solidity     | 3 M, 7 L | Private | Liquid Restaking | 27 July – 3 Aug, 2025  | Pashov   |
 | **Elixir** | Sui Move     | 5 M, 10 L | Private | RWA + Stablecoin | 17 Aug – 22 Aug, 2025  | Pashov   |
 | **Funnel** | Solidity     | 6 L | Private | UniswapV3 fork | 27 Aug – 28 Aug, 2025  | Pashov   |
-| **Degen Dice** | Solidity     | CS | Private | CS | 30 Aug – 10 Aug, 2025  | Pashov   |
+| **Degen Dice** | Solidity     | CS | Private | CS | 30 Aug – 10 Sept, 2025  | Pashov   |
 
 ## Public Audits
 
