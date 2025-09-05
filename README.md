@@ -12,8 +12,8 @@
 | **Noodles** |   Solidity       | 2 M, 5 L  | Private | Bonding Curves  | 11 Mar – 14 Mar, 2025 | Pashov   |
 | **Rip.fun** |    Solidity      | 2 H, 6 M, 6 L | Private | NFT Marketplace | 25 Apr – 2 May, 2025  | Pashov   |
 | **Elytra** |      Solidity     | 3 M, 7 L | Private | Liquid Restaking | 27 July – 3 Aug, 2025  | Pashov   |
-| **Elixir** | Sui Move     | 5 M, 10 L | Private | RWA + Stablecoin | 17 Aug – 22 Aug, 2025  | Pashov   |
-| **Funnel** | Solidity     | 6 L | Private | UniswapV3 fork | 27 Aug – 28 Aug, 2025  | Pashov   |
+| **Elixir** | Sui Move     | 5 M, 10 L | Private | Staking vault | 17 Aug – 22 Aug, 2025  | Pashov   |
+| **Funnel** | Solidity     | 6 L | Private | DEX | 27 Aug – 28 Aug, 2025  | Pashov   |
 | **Degen Dice** | Solidity     | CS | Private | CS | 30 Aug – 10 Sept, 2025  | Pashov   |
 
 ## Public Audits
