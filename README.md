@@ -15,6 +15,8 @@
 | **Elixir** | Sui Move     | 5 M, 10 L | Private | Staking vault | 17 Aug – 22 Aug, 2025  | Pashov   |
 | **Funnel** | Solidity     | 6 L | Private | DEX | 27 Aug – 29 Aug, 2025  | Pashov   |
 | **Degen Dice** | Solidity     | 2 H, 3 M, 9 L | Private | RWA | 30 Aug – 10 Sept, 2025  | Pashov   |
+| **HypurrFi** | Solidity     | CS | Private | CS |  CS | Pashov   |
+
 
 ## Public Audits
 
