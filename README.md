@@ -17,7 +17,7 @@
 | **Degen Dice** | Solidity     | 2 H, 3 M, 9 L | Private | RWA | 30 Aug – 10 Sept, 2025  | Pashov   |
 | **HypurrFi** | Solidity     | 2 H, 3 M, 2 L | Private | Leveraged Trading |  CS | Pashov   |
 | **StarVault** | Rust     | CS | Private | Kickstarter |  CS | Adevar Labs   |
-| **PancakeSwap** | Vyper     | Private | Private | CS |  30 Sept - 4 October, 2025 | Pashov   |
+| **PancakeSwap** | Vyper     | Private | Private | CS |  30 Sept - 4 Oct, 2025 | Pashov   |
 
 
 ## Public Audits
