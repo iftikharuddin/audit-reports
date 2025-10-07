@@ -18,6 +18,7 @@
 | **HypurrFi** | Solidity     | 2 H, 3 M, 2 L | Private | Leveraged Trading |  18 Sept - 26 Sept, 2025 | Pashov   |
 | **StarVault** | Rust     | CS | Private | Kickstarter |  CS Sept - CS Oct, 2025 | Adevar Labs   |
 | **PancakeSwap** | Vyper     | Private | Private | DEX |  30 Sept - 4 Oct, 2025 | Pashov   |
+| **Lido Vaults** | Solidity     | Private | Private | Staking |  <strike>8 Oct - 15 Oct, 2025</strike> | Pashov   |
 
 
 ## Public Audits
