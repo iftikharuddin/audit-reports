@@ -16,7 +16,7 @@
 | **Funnel** | Solidity     | 6 L | Private | DEX | 27 Aug – 29 Aug, 2025  | Pashov   |
 | **Degen Dice** | Solidity     | 2 H, 3 M, 9 L | Private | RWA | 30 Aug – 10 Sept, 2025  | Pashov   |
 | **HypurrFi** | Solidity     | 2 H, 3 M, 2 L | Private | Leveraged Trading |  18 Sept - 26 Sept, 2025 | Pashov   |
-| **StarVault** | Rust     | CS | Private | Kickstarter |  CS Sept - CS Oct, 2025 | Adevar Labs   |
+| **StarVault** | Rust     | 2 H, 9 M, 8 L | Private | Kickstarter |  CS Sept - CS Oct, 2025 | Adevar Labs   |
 | **PancakeSwap** | Vyper     | Private | Private | DEX |  30 Sept - 4 Oct, 2025 | Pashov   |
 | **Lido Vaults** | Solidity     | Private | Private | Staking |  <strike>8 Oct - 15 Oct, 2025</strike> | Pashov   |
 
