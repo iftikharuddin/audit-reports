@@ -19,6 +19,7 @@
 | **StarVault** | Rust     | 2 H, 9 M, 8 L | Private | Kickstarter |  CS Sept - CS Oct, 2025 | Adevar Labs   |
 | **PancakeSwap** | Vyper     | Private | Private | DEX |  30 Sept - 4 Oct, 2025 | Pashov   |
 | **Saffron Lido Vaults** | Solidity     | 1 C, 1 H, 1 M, 2 L | Private | Staking |  8 Oct - 15 Oct, 2025 | Pashov   |
+| **Biconomy** | CS     | CS | Private | CS |  CS | Pashov   |
 
 
 ## Public Audits
