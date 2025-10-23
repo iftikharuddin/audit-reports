@@ -21,6 +21,7 @@
 | **Saffron Lido Vaults** | Solidity     | 1 C, 1 H, 1 M, 2 L | Private | Staking |  8 Oct - 15 Oct, 2025 | Pashov   |
 | **Biconomy** | Solidity     | 1 M | Private | AA | 16 Oct – 18 Oct, 2025 | Pashov   |
 | **Play AI** | Solidity     | CS | Private | CS | 19 Oct – 22 Oct, 2025 | Pashov   |
+| **DBV3** | Move     | CS | Private | CS | 23 Oct – 6 Nov, 2025 | Three Sigma   |
 
 
 ## Public Audits
