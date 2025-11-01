@@ -22,6 +22,7 @@
 | **Biconomy** | Solidity     | 1 M | Private | AA | 16 Oct – 18 Oct, 2025 | Pashov   |
 | **Play AI** | Solidity     | CS | Private | CS | 19 Oct – 22 Oct, 2025 | Pashov   |
 | **DBV3** | Move     | CS | Private | CS | 23 Oct – 6 Nov, 2025 | Three Sigma   |
+| **RAAC** | Solidity     | CS | Private | CS | 4 Nov – 5 Nov, 2025 | Pashov   |
 
 
 ## Public Audits
