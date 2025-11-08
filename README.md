@@ -24,6 +24,7 @@
 | **Deepbook** | Move     | CS | Private | CS | 23 Oct – 6 Nov, 2025 | Three Sigma   |
 | **RAAC** | Solidity     | CS | Private | CS | 4 Nov – 5 Nov, 2025 | Pashov   |
 | **Modus** | Solidity     | CS | Private | CS | 8 Nov – 11 Nov, 2025 | Pashov   |
+| **Abyss** | Move     | CS | Private | CS | 10 Nov – 12 Nov, 2025 | Three Sigma   |
 
 
 ## Public Audits
