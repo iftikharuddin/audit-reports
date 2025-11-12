@@ -21,10 +21,10 @@
 | **Saffron Lido Vaults** | Solidity     | 1 C, 1 H, 1 M, 2 L | Private | Staking |  8 Oct - 15 Oct, 2025 | Pashov   |
 | **Biconomy** | Solidity     | 1 M | Private | AA | 16 Oct – 18 Oct, 2025 | Pashov   |
 | **Play AI** | Solidity     | CS | Private | CS | 19 Oct – 22 Oct, 2025 | Pashov   |
-| **Deepbook** | Move     | CS | Private | CS | 23 Oct – 6 Nov, 2025 | Three Sigma   |
+| **Deepbook** | Move     | CS | Private | Decentralized CLOB with margin/leverage caps on Sui | 23 Oct – 6 Nov, 2025 | Three Sigma   |
 | **RAAC** | Solidity     | CS | Private | CS | 4 Nov – 5 Nov, 2025 | Pashov   |
 | **Modus** | Solidity     | CS | Private | CS | 8 Nov – 11 Nov, 2025 | Pashov   |
-| **Abyss** | Move     | CS | Private | CS | 10 Nov – 12 Nov, 2025 | Three Sigma   |
+| **Abyss** | Move     | CS | Private | Yield Aggregator on Sui | 10 Nov – 12 Nov, 2025 | Three Sigma   |
 
 
 ## Public Audits
