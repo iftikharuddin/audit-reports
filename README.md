@@ -11,9 +11,9 @@
 | ----------- | -------- | ------------------ | ------- | --------------- | -------------------- | -------- |
 | **Noodles** |   Solidity       | 2 M, 5 L  | [Noodles](https://github.com/pashov/audits/blob/master/team/pdf/Noodles-security-review_2025-03-11.pdf) | Bonding Curves  | 11 Mar – 14 Mar, 2025 | Pashov   |
 | **Rip.fun** |    Solidity      | 2 H, 6 M, 6 L | Private | NFT Marketplace | 25 Apr – 2 May, 2025  | Pashov   |
-| **Elytra** |      Solidity     | 3 M, 7 L | Private | Liquid Restaking | 27 July – 3 Aug, 2025  | Pashov   |
-| **Elixir** |  Move     | 5 M, 10 L | Private | Staking vault | 17 Aug – 22 Aug, 2025  | Pashov   |
-| **Funnel** | Solidity     | 6 L | Private | DEX | 27 Aug – 29 Aug, 2025  | Pashov   |
+| **Elytra** |      Solidity     | 3 M, 7 L | [Elytra](https://github.com/pashov/audits/blob/master/team/pdf/Elytra-security-review_2025-07-27.pdf) | Liquid Restaking | 27 July – 3 Aug, 2025  | Pashov   |
+| **Elixir** |  Move     | 5 M, 10 L | [Elixir](https://github.com/pashov/audits/blob/master/team/pdf/Elixir-security-review_2025-08-17.pdf) | Staking vault | 17 Aug – 22 Aug, 2025  | Pashov   |
+| **Funnel** | Solidity     | 6 L | [Funnel](https://github.com/pashov/audits/blob/master/team/pdf/Funnel-security-review_2025-08-27.pdf) | DEX | 27 Aug – 29 Aug, 2025  | Pashov   |
 | **Degen Dice** | Solidity     | 2 H, 3 M, 9 L | Private | RWA | 30 Aug – 10 Sept, 2025  | Pashov   |
 | **HypurrFi** | Solidity     | 2 H, 3 M, 2 L | Private | Leveraged Trading |  18 Sept - 26 Sept, 2025 | Pashov   |
 | **StarVault** | Rust     | 2 H, 9 M, 8 L | Private | Kickstarter |  27 Sept - 10 Oct, 2025 | Adevar Labs   |
