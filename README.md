@@ -26,6 +26,7 @@
 | **Modus** | Solidity     | CS | Private | CS | 8 Nov – 11 Nov, 2025 | Pashov   |
 | **Abyss** | Move     | CS | Private | Yield Aggregator on Sui | 10 Nov – 12 Nov, 2025 | Three Sigma   |
 | **Layerbank** | Move     | CS | Private | lending/borrowing on aptos | 21 Nov – 5 Dec, 2025 | Sherlock   |
+| **star-dot-fun v2** | Rust    | CS | Private | launchpad | NA | Adevar Labs   |
 
 
 ## Public Audits
