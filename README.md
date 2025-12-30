@@ -1,4 +1,5 @@
 
+More precise portfolio can be found [here](https://github.com/iftikharuddin/audit-reports/blob/master/portfolio.md)
 ## My Bounties reports
 
 | **Bounty Project** | **Language** | **Findings** | **Report Link**                                                                                                                                         
