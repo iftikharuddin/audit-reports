@@ -1,6 +1,6 @@
 # About Iftikhar
 
-**Iftikhar** is an independent smart contract security researcher specializing in **Move (Sui & Aptos)**, **Rust/Solana**, and **EVM** ecosystems. With deep expertise across multiple blockchain paradigms, I focus on uncovering critical vulnerabilities in DeFi protocols, lending platforms, NFT marketplaces, and cross-chain infrastructure.
+**Iftikhar** aka Panther is an independent smart contract security researcher specializing in **Move (Sui & Aptos)**, **Rust/Solana**, and **EVM** ecosystems. With deep expertise across multiple blockchain paradigms, I focus on uncovering critical vulnerabilities in DeFi protocols, lending platforms, NFT marketplaces, and cross-chain infrastructure.
 
 I have audited **Aave (Aptos)**, **Deepbook**, **Tensor**, **Arcade.xyz**, **PancakeSwap**, **Venus Protocol**, **Velvet**, **JuiceBox**, and numerous other protocols securing hundreds of millions in TVL.
 
