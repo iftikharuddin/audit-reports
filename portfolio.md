@@ -6,7 +6,7 @@ I have audited **Aave (Aptos)**, **Deepbook**, **Tensor**, **Arcade.xyz**, **Pan
 
 Trusted by: **Three Sigma** · **Sherlock** · **Adevar Labs** . **Pashov Audit Group** . 
 
-### For private audits or security consulting, reach out via [Twitter](https://x.com/thepantherplus) or [Telegram](@theblackpantherhere)
+### For private audits or security consulting, reach out via [Twitter](https://x.com/thepantherplus) or [Telegram](https://t.me/theblackpantherhere)
 
 ---
 
@@ -174,4 +174,4 @@ Func, TACT (TON)
 
 ## Need audit?
 
-Reachout at [X](https://x.com/thepantherplus) or [Telegram](@theblackpantherhere)
+Reachout at [X](https://x.com/thepantherplus) or [Telegram](https://t.me/theblackpantherhere)
