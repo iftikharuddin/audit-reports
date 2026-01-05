@@ -29,7 +29,7 @@ More precise portfolio can be found [here](https://github.com/iftikharuddin/audi
 | **Layerbank** | Move     | CS | Private | lending/borrowing on aptos | 21 Nov – 5 Dec, 2025 | Sherlock   |
 | **star-dot-fun v2** | Rust    | CS | Private | launchpad | NA | Adevar Labs   |
 | **Yei Finance** | Solidity    | CS | Private | Aave Fork | 9 Dec - 10 Dec, 2025 | Pashov   |
-
+| **Crunch DAO** | Rust    | CS | Private | NA | NA | Accretion   |
 
 ## Public Audits
 
