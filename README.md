@@ -31,7 +31,7 @@ More precise portfolio can be found [here](https://github.com/iftikharuddin/audi
 | **Yei Finance** | Solidity    | CS | Private | Aave Fork | 9 Dec - 10 Dec, 2025 | Pashov   |
 | **Crunch DAO** | Rust    | CS | Private | NA | 5 Jan - 15 Jan, 2026 | Accretion   |
 | **Spicenet** | Solidity    | CS | Private | NA | NA | Pashov   |
-| **NA** | Formal Verification    | CS | Private | NA | NA | Pashov   |
+| **SpiceNet Delegate contract** | Formal Verification    | CS | Private | NA | NA | Pashov   |
 | **NA** | Move    | CS | Private | NA | 19 Jan - 22 Jan, 2026 | Cyfrin   |
 
 ## Public Audits
