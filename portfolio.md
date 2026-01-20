@@ -21,7 +21,7 @@ Specialized in auditing Move-based protocols across DeFi, orderbooks, lending, a
 | **Elixir** | Move | Multi-chain staking vault | Pashov | 5 M, 10 L | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Elixir-security-review_2025-08-17.pdf) |
 | **Abyss** | Sui Move | Yield aggregator | Three Sigma | Private | Private |
 | **Layerbank** | Aptos Move | Lending/borrowing protocol | Sherlock | Private | Private |
-
+| **Matrixdock** | Sui Move | RWA & Crosschain | Cyfrin | Private | Private |
 ---
 
 ## Rust & Solana
