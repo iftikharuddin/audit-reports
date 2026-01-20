@@ -41,7 +41,7 @@ More precise portfolio can be found [here](https://github.com/iftikharuddin/audi
 |---------|----------|----------|-------------|------|
 | **Arcade** | Solidity | 1 M | [Arcade](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Arcade/arcade.md) | ![2nd Place](https://img.shields.io/badge/Rank-2-yellow) |
 | **Tensor** | Rust | 2H, 1M | [Tensor](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard) | ![3rd Place](https://img.shields.io/badge/Rank-3-orange) |
-| **Aave** | Aptos Move | 1 H, 1 M | [Aave](https://cantina.xyz/competitions/ad445d42-9d39-4bcf-becb-0c6c8689b767/leaderboard) | ![3rd Place](https://img.shields.io/badge/Rank-3-orange) |
+| **Aave** | Aptos Move | 1 H, 1 M | [Aave](https://github.com/iftikharuddin/audit-reports/tree/master/cantina-audits/Aave-aptos) | ![3rd Place](https://img.shields.io/badge/Rank-3-orange) |
 | **Venus** | Solidity | 6 L | [Venus](https://github.com/iftikharuddin/audit-reports/blob/master/cantina-audits/Venus/venus.md) | ![3rd Place](https://img.shields.io/badge/Rank-3-orange) |
 | **Juicebox** | Solidity | 2 M, 8 L | [Juicebox](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4/leaderboard) | ![3rd Place](https://img.shields.io/badge/Rank-3-orange) |
 | **Velvet** |  Solidity | 6 H, 7 M | [Velvet](https://cantina.xyz/competitions/8d7bdfb9-cf19-4294-95d0-763af5d425b4/leaderboard) | ![3rd Place](https://img.shields.io/badge/Rank-3-orange) |
