@@ -33,7 +33,7 @@ Specialized in auditing Move-based protocols across DeFi, orderbooks, lending, a
 | **star-dot-fun v2** | Launchpad | Adevar Labs | Private | Private |
 | **Centrifuge** | RWA tokenization infrastructure | Cantina | 1 M | [📄](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard) |
 | **Cudis** | - | Private | 1 M, 2 L | Private |
-
+| **CrunchDAO** | - | Accretion | NA | Private |
 ---
 
 ## Top Contest Placements
