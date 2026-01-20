@@ -33,6 +33,7 @@ More precise portfolio can be found [here](https://github.com/iftikharuddin/audi
 | **Spicenet** | Solidity    | CS | Private | NA | NA | Pashov   |
 | **SpiceNet Delegate contract** | Formal Verification    | CS | Private | NA | NA | Pashov   |
 | **NA** | Move    | CS | Private | NA | 19 Jan - 22 Jan, 2026 | Cyfrin   |
+| **NA** | Move    | CS | Private | NA | NA | Sherlock   |
 
 ## Public Audits
 
