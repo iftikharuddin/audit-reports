@@ -4,7 +4,7 @@
 
 I have audited **Aave (Aptos)**, **Deepbook**, **Tensor**, **Arcade.xyz**, **PancakeSwap**, **Venus Protocol**, **Velvet**, **JuiceBox**, and numerous other protocols securing hundreds of millions in TVL.
 
-Trusted by: **Three Sigma** · **Sherlock** · **Adevar Labs** . **Pashov Audit Group** . **Accretion** . 
+Trusted by: **Three Sigma** · **Sherlock** · **Cyfrin** . **Adevar Labs** . **Pashov Audit Group** . **Accretion** . 
 
 ### For private audits or security consulting, reach out via [Twitter](https://x.com/thepantherplus) or [Telegram](https://t.me/theblackpantherhere)
 
