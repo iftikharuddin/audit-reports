@@ -49,6 +49,14 @@ Specialized in auditing Move-based protocols across DeFi, orderbooks, lending, a
 
 ---
 
+## Formal Verification
+
+| Protocol | Description | Audit Firm | Findings | Report |
+|----------|-------------|------------|----------|--------|
+| **Spicenet** | Spicenet Delegate contracts | Pashov | Private | Private |
+
+---
+
 ## Critical & High Severity Findings
 
 | Protocol | Category | Severity | Audit Firm |
@@ -140,6 +148,7 @@ Func, TACT (TON)
 - Yield Aggregators: Abyss, Velvet
 - Asset Management: Velvet v4
 - Treasury & Funding: JuiceBox, StarVault
+- Formal Verification (Solidity FV, Move FV, Certora, Sui Prover)
 
 **NFT Infrastructure**
 - Marketplaces: Tensor, Rip.fun
