@@ -32,8 +32,9 @@ More precise portfolio can be found [here](https://github.com/iftikharuddin/audi
 | **Crunch DAO** | Rust    | CS | Private | NA | 5 Jan - 15 Jan, 2026 | Accretion   |
 | **Spicenet** | Solidity    | CS | Private | NA | NA | Pashov   |
 | **SpiceNet Delegate contract** | Formal Verification    | CS | Private | NA | NA | Pashov   |
-| **Matrixdock** | Move    | CS | Private | NA | 19 Jan - 22 Jan, 2026 | Cyfrin   |
+| **Matrixdock** | Move    | CS | [📄](https://github.com/Matrixdock-RWA/RWA-Contracts/blob/main/xaum-sui/audit/2026-01-27-cyfrin-matrixdock-xaum-sui-v2.0.pdf) | NA | 19 Jan - 22 Jan, 2026 | Cyfrin   |
 | **NA** | Move    | CS | Private | NA | NA | Sherlock   |
+
 
 ## Public Audits
 
